@@ -1,0 +1,15 @@
+ERROR|Mon, 04 Aug 2014 00:13:56 -0400|visitor|content|/robots.txt|66.249.65.134|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 00:58:43 -0400|visitor|content|/robots.txt|123.125.71.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 04:11:33 -0400|visitor|content|/robots.txt|157.55.39.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 11:13:37 -0400|page|content|/robots.txt|101.226.168.228|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Mon, 04 Aug 2014 12:34:57 -0400|visitor|content|/robots.txt|66.249.65.142|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 14:43:58 -0400|visitor|content|/robots.txt|66.249.79.5|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 14:48:56 -0400|visitor|content|/mp3player/header.fla|157.55.39.19|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 15:24:43 -0400|visitor|content|/news/tour|66.249.79.24|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 16:12:19 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Mon, 04 Aug 2014 16:24:53 -0400|site|favicon|/favicon.ico|66.249.93.29|live|The site favicon could not be found.
+ERROR|Mon, 04 Aug 2014 17:25:14 -0400|visitor|content|/facebook|207.46.13.9|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 17:33:31 -0400|visitor|content|/robots.txt|66.249.79.230|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 18:28:10 -0400|visitor|content|/robots.txt|66.249.79.197|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 19:42:05 -0400|visitor|content|/robots.txt|183.60.213.104|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 04 Aug 2014 23:25:13 -0400|visitor|content|/mp3player/|157.55.39.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

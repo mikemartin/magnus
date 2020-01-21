@@ -1,0 +1,23 @@
+{{ entries:listing folder="news" sort_dir="desc" }}
+ <article class="entry">
+    <header>
+      <h2 class="entry-title"><a href="{{ url }}">{{ title }}</a></h2>
+      <p class="entry-date byline">
+         {{ member:profile member="{ author }" }} by {{ first_name }} on {{ /member:profile }} {{ datestamp format="F jS, Y" }}
+      </p>
+    </header>
+
+    {{ if image }} 
+    <img src="{{ image }}"/>
+    {{ endif}}
+    {{ video }}
+    {{ if video }}
+    <div class="vid"><iframe src="{{ video }}"  frameborder="0" ></iframe></div>
+    {{ /if}}
+
+    {{ content||striptags|truncate:150 }} <a href="{{ url }}" class="more">More</a>
+
+     {{ next }}<br>
+     {{ prev }}
+  </article>
+{{ /entries:listing }}

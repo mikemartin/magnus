@@ -1,0 +1,14 @@
+ERROR|Thu, 27 Feb 2014 01:58:52 -0500|visitor|content|/robots.txt|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 27 Feb 2014 03:03:33 -0500|site|favicon|/favicon.ico|174.6.113.157|live|The site favicon could not be found.
+INFO|Thu, 27 Feb 2014 03:03:34 -0500|site|favicon|/favicon.ico|174.6.113.157|live|The site favicon could not be found.
+ERROR|Thu, 27 Feb 2014 04:25:47 -0500|visitor|content|/robots.txt|208.43.252.200|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 05:50:32 -0500|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 07:51:41 -0500|visitor|content|/robots.txt|178.255.215.91|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 07:51:42 -0500|visitor|content|/news/tour|178.255.215.91|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 09:12:13 -0500|visitor|content|/itunes|180.76.6.40|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 12:30:03 -0500|visitor|content|/robots.txt|66.249.73.46|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 12:40:06 -0500|page|content|/robots.txt|182.118.25.213|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Thu, 27 Feb 2014 12:44:20 -0500|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 18:13:00 -0500|visitor|content|/robots.txt|208.43.251.181|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 27 Feb 2014 18:15:12 -0500|page|content|/news/abort-magazine-reviews-whatever-it-takes/|178.141.110.236|live|404 - Page not found. There is a bad link on <a href="/news/abort-magazine-reviews-whatever-it-takes/">/news/abort-magazine-reviews-whatever-it-takes/</a>.
+INFO|Thu, 27 Feb 2014 19:34:34 -0500|site|favicon|/favicon.ico|76.84.66.62|live|The site favicon could not be found.

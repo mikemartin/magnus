@@ -1,0 +1,16 @@
+ERROR|Wed, 18 Sep 2013 00:14:53 -0400|visitor|content|/robots.txt|62.212.73.211|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 04:47:45 -0400|visitor|content|/robots.txt|66.249.73.113|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 10:10:52 -0400|visitor|content|/robots.txt|85.25.71.40|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 10:16:39 -0400|visitor|content|/news/tour|85.25.71.40|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 10:27:03 -0400|visitor|content|/robots.txt|66.249.73.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 10:27:04 -0400|visitor|content|/myspace|66.249.73.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 12:38:18 -0400|page|content|/robots.txt|123.151.148.163|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 18 Sep 2013 13:19:36 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 13:32:28 -0400|visitor|content|/robots.txt|66.249.73.46|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 15:46:29 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|69.171.234.114|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 15:46:31 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|69.171.234.115|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 18 Sep 2013 17:43:57 -0400|site|favicon|/favicon.ico|94.1.157.6|live|The site favicon could not be found.
+ERROR|Wed, 18 Sep 2013 22:20:34 -0400|visitor|content|/robots.txt|183.60.215.36|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 18 Sep 2013 23:13:13 -0400|page|content|/member/register/|46.246.70.203|live|404 - Page not found. There is a bad link on <a href="/member/register/">/member/register/</a>.
+ERROR|Wed, 18 Sep 2013 23:13:14 -0400|page|content|/member/register/|46.246.70.203|live|404 - Page not found. There is a bad link on <a href="/member/register/">/member/register/</a>.
+ERROR|Wed, 18 Sep 2013 23:13:15 -0400|page|content|/index.php/member/register/|46.246.70.203|live|404 - Page not found. There is a bad link on <a href="/index.php/member/register/">/index.php/member/register/</a>.

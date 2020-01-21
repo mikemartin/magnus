@@ -1,0 +1,13 @@
+ERROR|Sun, 10 Aug 2014 00:12:42 -0400|page|content|/robots.txt|101.226.168.207|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sun, 10 Aug 2014 02:02:23 -0400|visitor|content|/robots.txt|66.249.79.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 02:16:03 -0400|visitor|content|/news/tour|66.249.79.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 10 Aug 2014 03:46:00 -0400|site|favicon|/favicon.ico|70.68.53.42|live|The site favicon could not be found.
+ERROR|Sun, 10 Aug 2014 04:18:26 -0400|visitor|content|/robots.txt|70.68.53.42|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 09:35:47 -0400|visitor|content|/robots.txt|66.249.65.103|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 10:42:26 -0400|visitor|content|/robots.txt|66.249.65.117|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 11:50:02 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 11:50:28 -0400|visitor|content|/robots.txt|199.16.156.126|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 11:50:28 -0400|visitor|content|/robots.txt|199.16.156.125|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 20:14:04 -0400|page|content|/robots.txt|101.226.169.222|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sun, 10 Aug 2014 22:58:12 -0400|visitor|content|/robots.txt|123.125.71.40|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 10 Aug 2014 23:59:16 -0400|visitor|content|/robots.txt|61.135.189.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

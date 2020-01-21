@@ -1,0 +1,26 @@
+ERROR|Tue, 18 Mar 2014 01:00:29 -0400|visitor|content|/robots.txt|206.183.1.74|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 18 Mar 2014 02:49:32 -0400|site|favicon|/favicon.ico|174.1.147.253|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 02:52:44 -0400|site|favicon|/favicon.ico|174.1.147.253|live|The site favicon could not be found.
+ERROR|Tue, 18 Mar 2014 05:33:15 -0400|page|content|/robots.txt|101.226.166.205|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Tue, 18 Mar 2014 05:47:15 -0400|page|content|/robots.txt|182.118.25.245|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Tue, 18 Mar 2014 06:05:57 -0400|visitor|content|/robots.txt|54.204.57.120|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 06:05:58 -0400|visitor|content|/robots.txt|54.204.57.120|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 07:33:50 -0400|visitor|content|/robots.txt|69.58.178.58|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 07:33:52 -0400|visitor|content|/robots.txt|69.58.178.58|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 18 Mar 2014 10:54:28 -0400|site|favicon|/favicon.ico|66.249.85.32|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 11:47:21 -0400|site|favicon|/favicon.ico|173.252.145.13|live|The site favicon could not be found.
+ERROR|Tue, 18 Mar 2014 13:45:19 -0400|visitor|content|/robots.txt|157.55.35.84|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 15:53:46 -0400|page|content|/robots.txt|101.226.167.238|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Tue, 18 Mar 2014 16:28:45 -0400|page|content|/robots.txt|101.226.167.237|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+INFO|Tue, 18 Mar 2014 16:48:27 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 16:48:29 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 16:48:30 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 16:49:12 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 16:49:13 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 16:49:14 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+INFO|Tue, 18 Mar 2014 16:49:15 -0400|site|favicon|/favicon.ico|24.84.240.179|live|The site favicon could not be found.
+ERROR|Tue, 18 Mar 2014 18:56:09 -0400|visitor|content|/robots.txt|199.30.20.38|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 20:48:01 -0400|visitor|content|/robots.txt|66.249.67.23|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 20:56:38 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 20:59:14 -0400|visitor|content|/robots.txt|199.30.20.38|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 18 Mar 2014 22:51:46 -0400|visitor|content|/robots.txt|123.125.71.58|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

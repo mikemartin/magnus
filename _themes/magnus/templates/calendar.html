@@ -1,0 +1,44 @@
+<h1>Tour</h1>
+
+<ul class="tour-dates">
+{{ entries:listing show_future="yes" show_past="no" folder="tour" sort_dir="desc" }}
+{{ if no_results }}
+{{ else }}
+ <li>
+    <span class="tour-date">
+      {{ date format="M" }}
+      {{ date format="j" }}
+      {{ date format="Y" }}
+    </span>
+    <div class="tour-venue">{{ title }}, {{ location:name }}</div>
+    {{ if tickets }}
+    <span class="tour-tickets"><a href="{{ tickets }}" class="btn">Buy Tickets</a></span>
+    {{ endif }}
+  </li>
+{{ endif }}
+{{ /entries:listing }}
+
+
+
+</ul>
+<br/>
+<h2>Past Shows</h2>
+
+<ul class="tour-dates">
+{{ entries:listing show_future="no" show_past="yes" folder="tour" sort_dir="desc" }}
+{{ if no_results }}
+<li>
+  <p>No events on the horizon.</p>
+</li>
+{{ else }}
+ <li>
+    <span class="tour-date">
+      {{ date format="M" }}
+      {{ date format="j" }}
+      {{ date format="Y" }}
+    </span>
+    <div class="tour-venue">{{ title }}, {{ location:name }}</div>
+  </li>
+{{ endif }}
+{{ /entries:listing }}
+</ul>

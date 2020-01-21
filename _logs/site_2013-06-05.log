@@ -1,0 +1,738 @@
+ERROR|Wed, 05 Jun 2013 01:01:33 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 01:04:17 -0400|visitor|content|/robots.txt|18.150.2.60|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 01:05:47 -0400|visitor|content|/robots.txt|23.22.64.87|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 01:20:05 -0400|visitor|content|/robots.txt|199.30.16.45|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 01:45:12 -0400|site|favicon|/favicon.ico|24.244.23.228|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 02:23:02 -0400|site|favicon|/favicon.ico|66.249.85.64|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 02:23:02 -0400|site|favicon|/favicon.ico|66.249.85.64|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 02:25:08 -0400|visitor|content|/news/tour|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 02:54:28 -0400|visitor|content|/robots.txt|87.194.95.154|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 02:54:31 -0400|visitor|content|/itunes|87.194.95.154|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 02:54:33 -0400|visitor|content|/robots.txt|87.194.95.154|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 02:54:35 -0400|visitor|content|/facebook|87.194.95.154|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 02:54:40 -0400|visitor|content|/myspace|87.194.95.154|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 04:38:05 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:38:06 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:39:00 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:39:01 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:39:08 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:39:09 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:39:10 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:52:49 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 04:52:50 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:01:58 -0400|site|favicon|/favicon.ico|70.79.60.132|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:01:59 -0400|site|favicon|/favicon.ico|70.79.60.132|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:23:43 -0400|visitor|content|/index.php/member/register/|46.246.35.235|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:27:17 -0400|visitor|content|/myspace/rog.png|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:27:19 -0400|visitor|content|/myspace/matt.png|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:47:11 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:47:59 -0400|visitor|content|/html/new/_app/vendor/Symfony/Component/Finder/Shell/Shell.php|94.78.84.13|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:48:01 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:02 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:03 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:09 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:10 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:48:23 -0400|visitor|content|/new/_app/vendor/Symfony/Component/Finder/Shell/Shell.php|94.78.84.13|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:48:26 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:31 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:33 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:35 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:37 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:40 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:42 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:46 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:47 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:50 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:51 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:48:59 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:49:10 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:49:20 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:49:24 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:49:58 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:49:59 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:50:00 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:50:02 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:50:03 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:50:10 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|1.28.76.242|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:11 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|218.24.139.30|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:28 -0400|visitor|content|/acunetix-wvs-test-for-some-inexistent-file|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:32 -0400|visitor|content|/BPZ3RVfr|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:33 -0400|visitor|content|/C14mshk9|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:34 -0400|visitor|content|/EgLvYqqh|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:37 -0400|visitor|content|/YI2odiIh|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:37 -0400|visitor|content|/UwvmleJ6|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:39 -0400|visitor|content|/LPIqZHmK|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/index|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/server-info|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/Account/Register.aspx?ReturnUrl=|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/|~.aspx|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/console/j_security_check|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/ClientAccessPolicy.xml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:40 -0400|visitor|content|/WebResource.axd?d=ihUvfODT|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/inexistent_file_name.inexistent0123450987.cfm|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/solr/select/?q=test|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/default|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/aYL37KYS0O.cfm|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/6bzclkDHuN.cfm|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/crossdomain.xml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:50:41 -0400|site|favicon|/favicon.ico|193.140.41.248|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:50:41 -0400|visitor|content|/robots.txt|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:42 -0400|visitor|content|/elmah.axd|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:43 -0400|visitor|content|/MwvBTDpCZ1|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:43 -0400|visitor|content|/Global.asa.bak|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:43 -0400|visitor|content|/_vti_pvt/authors.pwd|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:43 -0400|visitor|content|/_vti_bin/shtml.exe?_vti_rpc|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:44 -0400|visitor|content|/fantastico_fileslist.txt|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:44 -0400|visitor|content|/stronghold-info|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:44 -0400|visitor|content|http://magnusrising.com:80/ClientAccessPolicy.xml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:44 -0400|visitor|content|/MwvBTDpCZ1.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:44 -0400|visitor|content|/sitemap.xml.gz|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:44 -0400|visitor|content|/sitemap.xml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:45 -0400|page|content|/news/tour|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/news/matts-weekly-top-ten">/news/matts-weekly-top-ten</a>.
+ERROR|Wed, 05 Jun 2013 06:50:45 -0400|visitor|content|/MwvBTDpCZ1.cgi|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:46 -0400|visitor|content|/MwvBTDpCZ1.pl|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:47 -0400|visitor|content|/web-console/Invoker|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:47 -0400|visitor|content|/long_inexistent_path12345_/Null.htw?CiWebhitsfile=:&CiRestriction=b&CiHiliteType=full|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:47 -0400|visitor|content|/Global.asax.bak|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:47 -0400|visitor|content|/stronghold-status|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:47 -0400|visitor|content|/_vti_bin/_vti_aut/author.dll|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:49 -0400|visitor|content|/MwvBTDpCZ1.plx|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:49 -0400|visitor|content|/web-console/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:49 -0400|visitor|content|/_layouts/scriptresx.ashx?culture=en-us&name=SP.JSGrid.Res&rev=laygpE0lqaosnkB4iqx6mA%3D%3D&sections=All<script>alert(12345)</script>z|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:49 -0400|visitor|content|/mt/mt-upgrade.cgi|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:50 -0400|visitor|content|/MwvBTDpCZ1.exe|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:50 -0400|visitor|content|/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type%3DServerInfo|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:50 -0400|visitor|content|/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:50 -0400|visitor|content|/cgi/mt/mt-upgrade.cgi|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:50 -0400|visitor|content|/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type%3DServer|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:51 -0400|visitor|content|/MwvBTDpCZ1.asp|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:51 -0400|visitor|content|//database.yml_original|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:51 -0400|visitor|content|/jmx-console/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:52 -0400|visitor|content|/MwvBTDpCZ1.aspx|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:52 -0400|page|content|/a|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:50:52 -0400|visitor|content|//database.yml~|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:52 -0400|visitor|content|/invoker/JMXInvokerServlet|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:53 -0400|visitor|content|/ikkpeZn29S.jsp|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:53 -0400|visitor|content|/MwvBTDpCZ1.phtml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:54 -0400|visitor|content|//database.yml.pgsql|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:54 -0400|visitor|content|/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.deployer:service%3DBSHDeployer|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:54 -0400|visitor|content|/manager/html/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:54 -0400|visitor|content|/MwvBTDpCZ1.jhtml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:55 -0400|visitor|content|//database.yml.sqlite3|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:55 -0400|visitor|content|/examples/jsp/snp/snoop.jsp|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:55 -0400|visitor|content|/tomcat-docs/appdev/sample/web/hello.jsp?test=<script>alert(12345)</script>|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:55 -0400|visitor|content|/status|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:55 -0400|visitor|content|/MwvBTDpCZ1.shtml|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:56 -0400|visitor|content|//config/database.yml_original|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:56 -0400|visitor|content|/examples/servlets/servlet/SessionExample|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:56 -0400|visitor|content|/umbraco/webservices/codeEditorSave.asmx|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:56 -0400|visitor|content|/MwvBTDpCZ1.nsf|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:57 -0400|visitor|content|//config/database.yml~|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:57 -0400|visitor|content|/phpmyadmin/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:57 -0400|visitor|content|/MwvBTDpCZ1.cfm|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:57 -0400|visitor|content|/9586668|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:59 -0400|visitor|content|/MwvBTDpCZ1.jsp|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:50:59 -0400|visitor|content|//config/database.yml.pgsql|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:00 -0400|visitor|content|/pma/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:00 -0400|visitor|content|/MwvBTDpCZ1.jspa|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:00 -0400|visitor|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/windows/win.ini|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:00 -0400|visitor|content|//config/database.yml.sqlite3|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:00 -0400|visitor|content|/mysql/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:01 -0400|visitor|content|/MwvBTDpCZ1.stm|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:01 -0400|visitor|content|//app/config/database.yml_original|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:01 -0400|visitor|content|/db/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:02 -0400|visitor|content|/stat/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:02 -0400|visitor|content|/QO0NjmBnOe.cfm|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:02 -0400|visitor|content|//app/config/database.yml~|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:02 -0400|visitor|content|/dbadmin/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:03 -0400|visitor|content|/stats/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:03 -0400|visitor|content|/response.write(9457183*9756449)/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:03 -0400|visitor|content|//app/config/database.yml.pgsql|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:03 -0400|visitor|content|/mysqladmin/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:03 -0400|visitor|content|/awstats/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:04 -0400|visitor|content|/'%2bresponse.write(9457183*9756449)%2b'/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:04 -0400|visitor|content|//app/config/database.yml.sqlite3|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:04 -0400|visitor|content|/PMA/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:04 -0400|visitor|content|/_awstats/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:04 -0400|visitor|content|/%22%2bresponse.write(9457183*9756449)%2b%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:05 -0400|visitor|content|/myadmin/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:05 -0400|visitor|content|/webstats/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:05 -0400|visitor|content|/response.write(9444706*9013141)/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:06 -0400|visitor|content|/phpmyadmin2/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:06 -0400|visitor|content|/webstat/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:06 -0400|visitor|content|/'%2bresponse.write(9444706*9013141)%2b'/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:06 -0400|page|content|/-1%20or%2039%3d39/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:07 -0400|visitor|content|/admin/pma/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:07 -0400|visitor|content|/statistics/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:07 -0400|visitor|content|/%22%2bresponse.write(9444706*9013141)%2b%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:07 -0400|page|content|/-1%20or%2039%3d0/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:07 -0400|visitor|content|/admin/phpmyadmin/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:08 -0400|visitor|content|/Statistik/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:08 -0400|visitor|content|/response.write(9746463*9524479)/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:08 -0400|page|content|/-1'%20or%20'93'%3d'93/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:08 -0400|visitor|content|/admin/mysql/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:09 -0400|visitor|content|/sysstat/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:09 -0400|visitor|content|/'%2bresponse.write(9746463*9524479)%2b'/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:09 -0400|page|content|/-1'%20or%20'93'%3d'0/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:09 -0400|visitor|content|/phpMyAdmin-3.3.4-all-languages/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:10 -0400|visitor|content|/editor/stats/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:10 -0400|visitor|content|/%22%2bresponse.write(9746463*9524479)%2b%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:11 -0400|visitor|content|/phpMyAdmin-3.3.4-english/main.php|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:11 -0400|page|content|/-1%22%20or%20%2268%22%3d%2268/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:11 -0400|visitor|content|/response.write(9678970*9591078)/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:11 -0400|visitor|content|/Estadisticas/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:12 -0400|page|content|/-1%22%20or%20%2268%22%3d%220/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:12 -0400|visitor|content|/'%2bresponse.write(9678970*9591078)%2b'/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:12 -0400|visitor|content|/reports/Webalizer/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:13 -0400|page|content|/news'%20and%20sleep(4)%3d'/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:13 -0400|visitor|content|/%22%2bresponse.write(9678970*9591078)%2b%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:13 -0400|visitor|content|/webalizer/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:13 -0400|visitor|content|/'%7c'ld/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:13 -0400|page|content|/news'%20and%20(sleep(4)%2b1)%20limit%201%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:14 -0400|visitor|content|/response.write(9602227*9471140)/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:14 -0400|visitor|content|/Webalizer/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:14 -0400|visitor|content|/%22%7c%22ld/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:14 -0400|page|content|/news%22%20and%20sleep(4)%3d%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:14 -0400|visitor|content|/'%2bresponse.write(9602227*9471140)%2b'/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:15 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:15 -0400|visitor|content|/usagedata/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:15 -0400|page|content|/news'%20or%20(sleep(4)%2b1)%20limit%201%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:15 -0400|visitor|content|/%22%2bresponse.write(9602227*9471140)%2b%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:16 -0400|visitor|content|/logs/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:16 -0400|page|content|/news%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:16 -0400|visitor|content|/response.write(9572917*9588065)/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:16 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:17 -0400|visitor|content|/_webalizer/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:17 -0400|visitor|content|/%26dir/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:17 -0400|page|content|/news'%3dsleep(4)%3d'/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:17 -0400|visitor|content|/'%2bresponse.write(9572917*9588065)%2b'/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:17 -0400|visitor|content|/usage/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:18 -0400|visitor|content|/'%26dir%26'/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:18 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:18 -0400|page|content|/news%22%3dsleep(4)%3d%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:18 -0400|visitor|content|/%22%2bresponse.write(9572917*9588065)%2b%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:18 -0400|visitor|content|/.stats/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:18 -0400|visitor|content|/%22%26dir%26%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:19 -0400|page|content|/news'%2b(select%201%20from%20(select%20sleep(4))A)%2b'/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:19 -0400|visitor|content|/news/response.write(9212551*9171943)|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:19 -0400|visitor|content|/beheer/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:19 -0400|visitor|content|/%7cdir/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:20 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:20 -0400|page|content|/news%20and%20sleep(4)%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:20 -0400|visitor|content|/news/'%2bresponse.write(9212551*9171943)%2b'|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:20 -0400|visitor|content|/wstat/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:20 -0400|visitor|content|/'%7cdir/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:21 -0400|page|content|/news%20or%20(sleep(4)%2b1)%20limit%201%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:21 -0400|visitor|content|/news/%22%2bresponse.write(9212551*9171943)%2b%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:21 -0400|visitor|content|/statystyka/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:21 -0400|visitor|content|/%22%7cdir/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:21 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:22 -0400|page|content|/news';select%20pg_sleep(4);%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:22 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:22 -0400|visitor|content|/awstats.pl|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:23 -0400|page|content|/news';%20waitfor%20delay%20'0:0:4'%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:23 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:23 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:23 -0400|page|content|/news%22;%20waitfor%20delay%20'0:0:4'%20--%20/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:24 -0400|visitor|content|/'%7c'ld/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:24 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:25 -0400|page|content|/news/%0d%20SomeCustomInjectedHeader:injected_by_wvs|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:25 -0400|page|content|//abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:25 -0400|visitor|content|/%22%7c%22ld/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:25 -0400|visitor|content|/%24%7b100433%2b100201%7d/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:26 -0400|page|content|/268435455/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:26 -0400|page|content|/-1%20or%2046%3d46/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:26 -0400|visitor|content|/%24%7b100061%2b100480%7d/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:27 -0400|page|content|/%e3h/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:27 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:27 -0400|page|content|/-1%20or%2046%3d0/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:27 -0400|visitor|content|/%24%7b99524%2b99182%7d/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:28 -0400|visitor|content|/%26dir/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:28 -0400|page|content|/..%c0%af/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:28 -0400|page|content|/-1'%20or%20'66'%3d'66/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:28 -0400|visitor|content|/%24%7b100260%2b99986%7d/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:29 -0400|visitor|content|/'%26dir%26'/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:29 -0400|page|content|/1e309/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:29 -0400|page|content|/-1'%20or%20'66'%3d'0/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:29 -0400|visitor|content|/%24%7b99045%2b99502%7d/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:29 -0400|visitor|content|/%22%26dir%26%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:30 -0400|page|content|/WEB-INF%5cweb.xml/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:30 -0400|page|content|/-1%22%20or%20%2286%22%3d%2286/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:30 -0400|visitor|content|/%24%7b99816%2b100445%7d/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:30 -0400|visitor|content|/%7cdir/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:31 -0400|page|content|/-1%22%20or%20%2286%22%3d%220/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:31 -0400|page|content|//interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:31 -0400|visitor|content|/news/%24%7b100108%2b99597%7d|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:31 -0400|visitor|content|/'%7cdir/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:32 -0400|page|content|/news'%20and%20sleep(4)%3d'/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:32 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:32 -0400|page|content|/268435455/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:32 -0400|visitor|content|/%22%7cdir/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:32 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:33 -0400|page|content|/news'%20and%20(sleep(4)%2b1)%20limit%201%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:33 -0400|page|content|/................windowswin.ini/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:33 -0400|page|content|/%e3h/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:34 -0400|page|content|/news%22%20and%20sleep(4)%3d%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:34 -0400|page|content|/testasp.vulnweb.com/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:34 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:34 -0400|page|content|/..%c0%af/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:34 -0400|page|content|/news'%20or%20(sleep(4)%2b1)%20limit%201%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:35 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:35 -0400|page|content|/1e309/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:35 -0400|visitor|content|/'%7c'ld/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:35 -0400|page|content|/news%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:36 -0400|visitor|content|/%22%7c%22ld/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:36 -0400|page|content|/WEB-INF%5cweb.xml/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:36 -0400|page|content|/news'%3dsleep(4)%3d'/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:37 -0400|page|content|/testasp.vulnweb.com/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:37 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:37 -0400|page|content|/news%22%3dsleep(4)%3d%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:38 -0400|page|content|//magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:38 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:38 -0400|page|content|/news'%2b(select%201%20from%20(select%20sleep(4))A)%2b'/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:38 -0400|visitor|content|/%26dir/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:39 -0400|page|content|/268435455/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:39 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:39 -0400|page|content|/news%20and%20sleep(4)%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:39 -0400|page|content|/testasp.vulnweb.com/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:39 -0400|visitor|content|/'%26dir%26'/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:39 -0400|page|content|/%e3h/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:40 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:40 -0400|page|content|/news%20or%20(sleep(4)%2b1)%20limit%201%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:40 -0400|visitor|content|/%22%26dir%26%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:40 -0400|page|content|/..%c0%af/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:40 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:41 -0400|page|content|/news';select%20pg_sleep(4);%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:41 -0400|page|content|/1e309/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:41 -0400|visitor|content|/%7cdir/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:41 -0400|page|content|/testasp.vulnweb.com/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:42 -0400|page|content|/news';%20waitfor%20delay%20'0:0:4'%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:42 -0400|visitor|content|/'%7cdir/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:42 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:43 -0400|page|content|/news%22;%20waitfor%20delay%20'0:0:4'%20--%20/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:43 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:43 -0400|visitor|content|/%22%7cdir/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:43 -0400|page|content|//matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:44 -0400|page|content|/testasp.vulnweb.com/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:45 -0400|page|content|/268435455/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:45 -0400|page|content|/WEB-INF%5cweb.xml/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:46 -0400|page|content|/%e3h/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:46 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:46 -0400|page|content|/-1%20or%2062%3d62/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:46 -0400|visitor|content|/'%7c'ld/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:46 -0400|page|content|/..%c0%af/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:47 -0400|page|content|/-1%20or%2062%3d0/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:47 -0400|page|content|/testasp.vulnweb.com/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:47 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:47 -0400|visitor|content|/%22%7c%22ld/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:47 -0400|page|content|/1e309/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:48 -0400|page|content|/-1'%20or%20'58'%3d'58/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:48 -0400|page|content|/................windowswin.ini/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:48 -0400|page|content|/news/1some_inexistent_file_with_long_name%2500.jpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:49 -0400|page|content|/-1'%20or%20'58'%3d'0/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:49 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:49 -0400|visitor|content|/%26dir/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:49 -0400|page|content|/news/testasp.vulnweb.com|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:50 -0400|page|content|//playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:50 -0400|page|content|/-1%22%20or%20%2256%22%3d%2256/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:50 -0400|visitor|content|/'%26dir%26'/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:50 -0400|visitor|content|/news%26n962620%3dv988988/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:50 -0400|page|content|/268435455/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:50 -0400|page|content|/-1%22%20or%20%2256%22%3d%220/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:51 -0400|visitor|content|/%22%26dir%26%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:51 -0400|visitor|content|/news/the-drill-music-video-shoot%26n907548%3dv981334|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:51 -0400|page|content|/%e3h/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:51 -0400|page|content|/news'%20and%20sleep(4)%3d'/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:52 -0400|page|content|/WEB-INF%5cweb.xml/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:52 -0400|visitor|content|/%7cdir/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:52 -0400|page|content|/)/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:52 -0400|page|content|/..%c0%af/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:52 -0400|page|content|/news'%20and%20(sleep(4)%2b1)%20limit%201%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:53 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:53 -0400|visitor|content|/'%7cdir/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:53 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:53 -0400|page|content|/1e309/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:53 -0400|page|content|/news%22%20and%20sleep(4)%3d%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:54 -0400|visitor|content|/%22%7cdir/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:54 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:54 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:54 -0400|page|content|/news'%20or%20(sleep(4)%2b1)%20limit%201%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:55 -0400|page|content|/)/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:55 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:55 -0400|page|content|/news%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:55 -0400|page|content|//the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:56 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:56 -0400|page|content|/news'%3dsleep(4)%3d'/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:57 -0400|page|content|/268435455/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:57 -0400|visitor|content|/'%7c'ld/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:57 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:57 -0400|page|content|/news%22%3dsleep(4)%3d%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:58 -0400|page|content|/%e3h/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:58 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:58 -0400|page|content|/)/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:58 -0400|visitor|content|/%22%7c%22ld/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:51:58 -0400|page|content|/news'%2b(select%201%20from%20(select%20sleep(4))A)%2b'/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:58 -0400|page|content|/..%c0%af/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:59 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:59 -0400|page|content|/news%20and%20sleep(4)%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:51:59 -0400|page|content|/1e309/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:00 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:00 -0400|page|content|/WEB-INF%5cweb.xml/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:00 -0400|page|content|/news%20or%20(sleep(4)%2b1)%20limit%201%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:01 -0400|visitor|content|/%26dir/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:01 -0400|page|content|/)/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:01 -0400|page|content|/news';select%20pg_sleep(4);%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:02 -0400|visitor|content|/'%26dir%26'/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:02 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:02 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:02 -0400|page|content|/news';%20waitfor%20delay%20'0:0:4'%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|visitor|content|/%22%26dir%26%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|page|content|/................windowswin.ini/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|page|content|/news%22;%20waitfor%20delay%20'0:0:4'%20--%20/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|page|content|/news/268435455|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|page|content|/)/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:03 -0400|visitor|content|/%7cdir/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:04 -0400|visitor|content|/solr/admin/|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:04 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:04 -0400|page|content|/news/%e3h|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:04 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:04 -0400|visitor|content|/'%7cdir/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:05 -0400|page|content|/news/..%c0%af|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:05 -0400|visitor|content|/%22%7cdir/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:06 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:06 -0400|page|content|/news/1e309|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:06 -0400|page|content|/-1%20or%2091%3d91/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:06 -0400|page|content|/)/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:07 -0400|page|content|/WEB-INF%5cweb.xml/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:07 -0400|page|content|/-1%20or%2091%3d0/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:07 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:07 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:08 -0400|page|content|/-1'%20or%20'62'%3d'62/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:08 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:08 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:08 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:09 -0400|visitor|content|/'%7c'ld/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:09 -0400|page|content|/-1'%20or%20'62'%3d'0/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:10 -0400|page|content|/news/)|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:10 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:10 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:10 -0400|visitor|content|/%22%7c%22ld/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:10 -0400|page|content|/-1%22%20or%20%22105%22%3d%22105/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:11 -0400|page|content|/news/%21(()%26%26%21%7c*%7c*%7c|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:11 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:11 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:11 -0400|page|content|/-1%22%20or%20%22105%22%3d%220/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:12 -0400|page|content|/news/%5e(%23%24%21%40%23%24)(()))******|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:12 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:12 -0400|page|content|/news'%20and%20sleep(4)%3d'/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:12 -0400|page|content|/1'%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:13 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:13 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:13 -0400|visitor|content|/%26dir/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:13 -0400|page|content|/news'%20and%20(sleep(4)%2b1)%20limit%201%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:14 -0400|page|content|/%5c/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:14 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:14 -0400|visitor|content|/'%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:14 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:14 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:14 -0400|visitor|content|/'%26dir%26'/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:15 -0400|page|content|/news%22%20and%20sleep(4)%3d%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:15 -0400|visitor|content|/%3c%21--/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:15 -0400|page|content|/%40%40vRSeS/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:16 -0400|visitor|content|/%22%26dir%26%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:16 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:16 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:16 -0400|page|content|/news'%20or%20(sleep(4)%2b1)%20limit%201%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|visitor|content|/response.write(9767969*9231428)|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|visitor|content|/'%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|page|content|/news_936103/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|page|content|/JyI%3d/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|visitor|content|/%7cdir/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:17 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:18 -0400|page|content|/news%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:18 -0400|visitor|content|/'%2bresponse.write(9767969*9231428)%2b'|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:19 -0400|visitor|content|/%3c%21--/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:19 -0400|page|content|/news_961629/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:19 -0400|page|content|/%bf'%bf%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:19 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:19 -0400|visitor|content|/'%7cdir/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:19 -0400|page|content|/WEB-INF%5cweb.xml/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:20 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:20 -0400|page|content|/news'%3dsleep(4)%3d'/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:20 -0400|visitor|content|/'%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:20 -0400|visitor|content|/%22%2bresponse.write(9767969*9231428)%2b%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|page|content|/%f0''%f0%22%22/abort-magazine-reviews-whatever-it-takes|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|visitor|content|/%22%7cdir/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|page|content|/news_997734/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|page|content|/news%22%3dsleep(4)%3d%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:21 -0400|visitor|content|/%3c%21--/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:22 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:22 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:22 -0400|visitor|content|/news/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:22 -0400|page|content|/news_986621/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:22 -0400|page|content|/news'%2b(select%201%20from%20(select%20sleep(4))A)%2b'/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:23 -0400|visitor|content|/'%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:23 -0400|page|content|/................windowswin.ini/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:23 -0400|page|content|/1'%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:23 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|page|content|/news%20and%20sleep(4)%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|visitor|content|/%3c%21--/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|page|content|/-1%20or%2040%3d40|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|page|content|/news_910164/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|page|content|/%5c/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|visitor|content|/news/'%7c'ld|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:24 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|page|content|/news%20or%20(sleep(4)%2b1)%20limit%201%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|visitor|content|/'%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|page|content|/-1%20or%2040%3d0|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|visitor|content|/'%7c'ld|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|visitor|content|/news/%22%7c%22ld|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|page|content|/news_999097/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:25 -0400|page|content|/%40%40JmHAY/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:26 -0400|visitor|content|/%3c%21--/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:26 -0400|page|content|/news';select%20pg_sleep(4);%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:26 -0400|page|content|/-1'%20or%20'95'%3d'95|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:26 -0400|visitor|content|/%22%7c%22ld|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:26 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:26 -0400|page|content|/JyI%3d/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:27 -0400|visitor|content|/'%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:27 -0400|page|content|/news/the-drill-music-video-shoot_901757|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:27 -0400|page|content|/news';%20waitfor%20delay%20'0:0:4'%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:27 -0400|page|content|/-1'%20or%20'95'%3d'0|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:27 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:28 -0400|page|content|/%bf'%bf%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:28 -0400|visitor|content|/news/%26dir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:28 -0400|page|content|/news%22;%20waitfor%20delay%20'0:0:4'%20--%20/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:28 -0400|visitor|content|/%3c%21--/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:28 -0400|page|content|/-1%22%20or%20%2231%22%3d%2231|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:28 -0400|page|content|/WEB-INF%5cweb.xml/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|visitor|content|/%26dir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|page|content|/%f0''%f0%22%22/interview-with-abort-magazine|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|visitor|content|/news/'%26dir%26'|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|page|content|/%0d%20SomeCustomInjectedHeader:injected_by_wvs|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|visitor|content|/news/'%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:29 -0400|page|content|/-1%22%20or%20%2231%22%3d%220|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:30 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:30 -0400|visitor|content|/'%26dir%26'|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:30 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:30 -0400|visitor|content|/news/%22%26dir%26%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:31 -0400|visitor|content|/news/%3c%21--|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:31 -0400|page|content|/tour'%20and%20sleep(4)%3d'|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:31 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:31 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:31 -0400|visitor|content|/%22%26dir%26%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:32 -0400|page|content|/1'%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:32 -0400|visitor|content|/news/%7cdir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:32 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:32 -0400|page|content|/tour'%20and%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:32 -0400|page|content|/-1%20or%2060%3d60/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:32 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:33 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:33 -0400|visitor|content|/%7cdir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:33 -0400|page|content|/%5c/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:33 -0400|visitor|content|/news/'%7cdir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:33 -0400|page|content|/tour%22%20and%20sleep(4)%3d%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|page|content|/-1%20or%2060%3d0/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|visitor|content|/'%7cdir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|page|content|/%40%40Nnnbz/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:34 -0400|visitor|content|/news/%22%7cdir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:35 -0400|page|content|/tour'%20or%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:35 -0400|page|content|/268435455|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:35 -0400|page|content|/-1'%20or%20'35'%3d'35/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:35 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:35 -0400|visitor|content|/%22%7cdir|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:36 -0400|visitor|content|/%24%7b99368%2b99737%7d|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:36 -0400|page|content|/JyI%3d/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:36 -0400|page|content|/tour%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:36 -0400|page|content|/%e3h|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:36 -0400|page|content|/-1'%20or%20'35'%3d'0/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:36 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/%bf'%bf%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|visitor|content|/tour%26n901638%3dv907417|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/1some_inexistent_file_with_long_name%2500.jpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/tour'%3dsleep(4)%3d'|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/..%c0%af|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|page|content|/-1%22%20or%20%2253%22%3d%2253/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:37 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:38 -0400|page|content|/)|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:38 -0400|page|content|/%f0''%f0%22%22/magnus-rising-to-release-whatever-it-takes-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:38 -0400|page|content|/tour%22%3dsleep(4)%3d%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:38 -0400|page|content|/1e309|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:38 -0400|page|content|/-1%22%20or%20%2253%22%3d%220/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:38 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:39 -0400|page|content|/testasp.vulnweb.com|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:39 -0400|page|content|/%21(()%26%26%21%7c*%7c*%7c|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:39 -0400|page|content|/WEB-INF%5cweb.xml/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:39 -0400|page|content|/tour'%2b(select%201%20from%20(select%20sleep(4))A)%2b'|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:40 -0400|page|content|/news'%20and%20sleep(4)%3d'/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:40 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:40 -0400|visitor|content|/;print(md5(acunetix_wvs_security_test));|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:40 -0400|page|content|/1'%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:40 -0400|page|content|/%5e(%23%24%21%40%23%24)(()))******|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:40 -0400|page|content|/tour%20and%20sleep(4)%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|page|content|/WEB-INF%5cweb.xml|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|page|content|/news'%20and%20(sleep(4)%2b1)%20limit%201%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|visitor|content|/';print(md5(acunetix_wvs_security_test));%24a%3d'|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|visitor|content|/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|page|content|/%5c/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:41 -0400|page|content|/tour%20or%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:42 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:42 -0400|page|content|/news%22%20and%20sleep(4)%3d%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:42 -0400|visitor|content|/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:42 -0400|page|content|/1'%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:42 -0400|page|content|/................windowswin.ini/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|page|content|/tour';select%20pg_sleep(4);%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|page|content|/%40%40mU8Q9/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|visitor|content|/'%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|page|content|/news'%20or%20(sleep(4)%2b1)%20limit%201%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:43 -0400|page|content|/%5c|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|page|content|/tour';%20waitfor%20delay%20'0:0:4'%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|page|content|/................windowswin.ini|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|page|content|/JyI%3d/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|visitor|content|/%3c%21--|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|page|content|/news%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|visitor|content|/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:44 -0400|visitor|content|/news/;print(md5(acunetix_wvs_security_test));|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|page|content|/%40%40fyVZT|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|page|content|/tour%22;%20waitfor%20delay%20'0:0:4'%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|page|content|/%bf'%bf%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|page|content|/news'%3dsleep(4)%3d'/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|visitor|content|/news/';print(md5(acunetix_wvs_security_test));%24a%3d'|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:45 -0400|page|content|/tour_988670|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:46 -0400|page|content|/JyI%3d|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:46 -0400|page|content|/%f0''%f0%22%22/matts-weekly-top-ten|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:46 -0400|page|content|/news%22%3dsleep(4)%3d%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:46 -0400|page|content|/WEB-INF%5cweb.xml/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:46 -0400|visitor|content|/news/%22;print(md5(acunetix_wvs_security_test));%24a%3d%22|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:47 -0400|page|content|/%bf'%bf%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:47 -0400|visitor|content|/news/%24%7b%40print(md5(acunetix_wvs_security_test))%7d|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:48 -0400|page|content|/%f0''%f0%22%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:48 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:48 -0400|page|content|/1'%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:48 -0400|visitor|content|/news/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c|193.140.41.248|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 06:52:49 -0400|page|content|/%5c/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:49 -0400|page|content|/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:50 -0400|page|content|/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:50 -0400|page|content|/%40%40MAty9/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:51 -0400|page|content|/news'%2b(select%201%20from%20(select%20sleep(4))A)%2b'/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:51 -0400|page|content|/WEB-INF%5cweb.xml|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:51 -0400|page|content|/JyI%3d/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:52 -0400|page|content|/news%20and%20sleep(4)%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:52 -0400|page|content|/%bf'%bf%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:53 -0400|page|content|/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:53 -0400|page|content|/news%20or%20(sleep(4)%2b1)%20limit%201%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:53 -0400|page|content|/%f0''%f0%22%22/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:54 -0400|page|content|/news';select%20pg_sleep(4);%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:55 -0400|page|content|/news';%20waitfor%20delay%20'0:0:4'%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:55 -0400|page|content|/1'%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:56 -0400|page|content|/WEB-INF%5cweb.xml/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:56 -0400|page|content|/news%22;%20waitfor%20delay%20'0:0:4'%20--%20/playing-smoke-damage-from-our-upcoming-album|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:56 -0400|page|content|/%5c/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:58 -0400|page|content|/%40%40n8DXM/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:58 -0400|page|content|/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:59 -0400|page|content|/JyI%3d/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:59 -0400|page|content|/................windowswin.ini/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:52:59 -0400|page|content|/-1%20or%2075%3d75/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:00 -0400|page|content|/%bf'%bf%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:00 -0400|page|content|/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:01 -0400|page|content|/-1%20or%2075%3d0/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:01 -0400|page|content|/%f0''%f0%22%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:02 -0400|page|content|/-1'%20or%20'32'%3d'32/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:03 -0400|page|content|/WEB-INF%5cweb.xml/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:03 -0400|page|content|/-1'%20or%20'32'%3d'0/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:03 -0400|page|content|/news/1'%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:04 -0400|page|content|/-1%22%20or%20%2283%22%3d%2283/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:04 -0400|page|content|/news/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:04 -0400|page|content|/news/%5c|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:05 -0400|page|content|/-1%22%20or%20%2283%22%3d%220/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:05 -0400|page|content|/news/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:06 -0400|page|content|/news/%40%409cCpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:06 -0400|page|content|/news'%20and%20sleep(4)%3d'/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:07 -0400|page|content|/news/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:07 -0400|page|content|/news/JyI%3d|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:07 -0400|page|content|/news'%20and%20(sleep(4)%2b1)%20limit%201%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:08 -0400|page|content|/news/%bf'%bf%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:08 -0400|page|content|/news%22%20and%20sleep(4)%3d%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:09 -0400|page|content|/news/%f0''%f0%22%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:09 -0400|page|content|/news/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:10 -0400|page|content|/news'%20or%20(sleep(4)%2b1)%20limit%201%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:11 -0400|page|content|/news%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:12 -0400|page|content|/news'%3dsleep(4)%3d'/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:13 -0400|page|content|/news/WEB-INF%5cweb.xml|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:13 -0400|page|content|/news%22%3dsleep(4)%3d%22/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:14 -0400|page|content|/news'%2b(select%201%20from%20(select%20sleep(4))A)%2b'/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:15 -0400|page|content|/news/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:16 -0400|page|content|/news%20and%20sleep(4)%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:17 -0400|page|content|/news/................windowswin.ini|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:18 -0400|page|content|/news%20or%20(sleep(4)%2b1)%20limit%201%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:18 -0400|page|content|/news/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:19 -0400|page|content|/news';select%20pg_sleep(4);%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:20 -0400|page|content|/news';%20waitfor%20delay%20'0:0:4'%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:21 -0400|page|content|/news%22;%20waitfor%20delay%20'0:0:4'%20--%20/the-drill-music-video-shoot|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:21 -0400|page|content|/news/WEB-INF%5cweb.xml|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:24 -0400|page|content|/news/-1%20or%2051%3d51|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:26 -0400|page|content|/news/-1%20or%2051%3d0|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:27 -0400|page|content|/news/-1'%20or%20'32'%3d'32|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:29 -0400|page|content|/news/-1'%20or%20'32'%3d'0|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:30 -0400|page|content|/news/-1%22%20or%20%2275%22%3d%2275|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:31 -0400|page|content|/news/-1%22%20or%20%2275%22%3d%220|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:32 -0400|page|content|/news/the-drill-music-video-shoot'%20and%20sleep(4)%3d'|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:33 -0400|page|content|/news/the-drill-music-video-shoot'%20and%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:34 -0400|page|content|/news/the-drill-music-video-shoot%22%20and%20sleep(4)%3d%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:35 -0400|page|content|/news/the-drill-music-video-shoot'%20or%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:37 -0400|page|content|/news/the-drill-music-video-shoot%22%20or%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:38 -0400|page|content|/news/the-drill-music-video-shoot'%3dsleep(4)%3d'|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:40 -0400|page|content|/news/the-drill-music-video-shoot%22%3dsleep(4)%3d%22|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:41 -0400|page|content|/news/the-drill-music-video-shoot'%2b(select%201%20from%20(select%20sleep(4))A)%2b'|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:42 -0400|page|content|/news/the-drill-music-video-shoot%20and%20sleep(4)%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:43 -0400|page|content|/news/the-drill-music-video-shoot%20or%20(sleep(4)%2b1)%20limit%201%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:45 -0400|page|content|/news/the-drill-music-video-shoot';select%20pg_sleep(4);%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:46 -0400|page|content|/news/the-drill-music-video-shoot';%20waitfor%20delay%20'0:0:4'%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:53:48 -0400|page|content|/news/the-drill-music-video-shoot%22;%20waitfor%20delay%20'0:0:4'%20--%20|193.140.41.248|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Wed, 05 Jun 2013 06:55:12 -0400|visitor|content|/index.php/member/register/|46.246.35.235|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:55:51 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:55:57 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:01 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:56:07 -0400|visitor|content|/app|94.78.84.13|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:56:09 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:10 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:11 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:12 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:13 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:56:13 -0400|visitor|content|/app/config|94.78.84.13|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:56:15 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:16 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:16 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:18 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:22 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:25 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 06:56:33 -0400|visitor|content|/backup.zip|94.78.84.13|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 05 Jun 2013 06:56:35 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 06:56:36 -0400|site|favicon|/favicon.ico|94.78.84.13|live|The site favicon could not be found.
+INFO|Wed, 05 Jun 2013 11:57:24 -0400|site|favicon|/favicon.ico|204.187.15.218|live|The site favicon could not be found.
+ERROR|Wed, 05 Jun 2013 13:40:51 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 13:41:01 -0400|visitor|content|/robots.txt|157.55.32.153|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 14:21:25 -0400|visitor|content|/robots.txt|119.235.237.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 16:27:18 -0400|visitor|content|/robots.txt|69.197.128.114|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 16:27:26 -0400|visitor|content|/robots.txt|69.197.128.114|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 19:28:43 -0400|visitor|content|/robots.txt|66.249.73.234|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 05 Jun 2013 21:19:04 -0400|visitor|content|/robots.txt|157.55.33.80|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

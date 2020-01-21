@@ -1,0 +1,23 @@
+ERROR|Wed, 04 Jun 2014 01:08:13 -0400|visitor|content|/wp-admin/|96.126.100.186|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 01:17:06 -0400|visitor|content|/wordpress/wordpress/wp-admin/|159.253.137.109|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 01:25:56 -0400|visitor|content|/wordpress/wp-admin/|54.200.119.22|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 01:34:45 -0400|visitor|content|/blog/wp-admin/|49.212.142.86|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 01:43:27 -0400|visitor|content|/wp/wp-admin/|72.18.141.138|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 01:52:17 -0400|visitor|content|/old/wp-admin/|50.87.144.151|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 02:00:03 -0400|visitor|content|/robots.txt|66.249.79.55|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 03:50:00 -0400|visitor|content|/robots.txt|199.217.117.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 03:50:28 -0400|visitor|content|/news/tour|199.217.117.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 03:54:52 -0400|visitor|content|/robots.txt|208.43.225.84|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 04:58:38 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 04 Jun 2014 04:58:42 -0400|site|favicon|/favicon.ico|100.43.83.156|live|The site favicon could not be found.
+ERROR|Wed, 04 Jun 2014 06:25:39 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 14:28:26 -0400|visitor|content|/robots.txt|66.249.79.247|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 04 Jun 2014 15:52:52 -0400|site|favicon|/favicon.ico|184.71.156.134|live|The site favicon could not be found.
+INFO|Wed, 04 Jun 2014 15:52:53 -0400|site|favicon|/favicon.ico|184.71.156.134|live|The site favicon could not be found.
+ERROR|Wed, 04 Jun 2014 18:30:25 -0400|visitor|content|/robots.txt|157.55.33.81|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 19:16:08 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 04 Jun 2014 19:29:14 -0400|site|favicon|/favicon.ico|64.180.39.232|live|The site favicon could not be found.
+INFO|Wed, 04 Jun 2014 19:29:14 -0400|site|favicon|/favicon.ico|64.180.39.232|live|The site favicon could not be found.
+INFO|Wed, 04 Jun 2014 21:26:38 -0400|site|favicon|/favicon.ico|66.249.79.55|live|The site favicon could not be found.
+ERROR|Wed, 04 Jun 2014 23:10:50 -0400|visitor|content|/robots.txt|162.243.46.25|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 04 Jun 2014 23:11:25 -0400|page|content|/news/tour|162.243.46.25|live|404 - Page not found. There is a bad link on <a href="/news/matts-weekly-top-ten">/news/matts-weekly-top-ten</a>.

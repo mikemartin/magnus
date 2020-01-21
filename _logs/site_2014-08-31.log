@@ -1,0 +1,20 @@
+ERROR|Sun, 31 Aug 2014 00:28:08 -0400|visitor|content|/robots.txt|66.249.79.106|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 01:36:22 -0400|visitor|content|/robots.txt|68.180.224.225|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 05:35:44 -0400|visitor|content|/robots.txt|199.59.148.209|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 05:57:54 -0400|visitor|content|/robots.txt|157.55.39.166|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 08:19:48 -0400|visitor|content|/robots.txt|66.249.65.78|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 09:39:47 -0400|visitor|content|/robots.txt|131.253.24.12|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 10:49:56 -0400|page|content|/robots.txt|182.118.20.211|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sun, 31 Aug 2014 12:54:22 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 12:56:46 -0400|visitor|content|/wp-login.php|5.39.222.136|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 12:56:47 -0400|visitor|content|/administrator/|5.39.222.136|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 13:32:40 -0400|visitor|content|/robots.txt|66.249.65.31|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 15:19:40 -0400|visitor|content|/robots.txt|104.131.218.20|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 15:20:15 -0400|page|content|/news/tour|104.131.218.20|live|404 - Page not found. There is a bad link on <a href="/news/matts-weekly-top-ten">/news/matts-weekly-top-ten</a>.
+ERROR|Sun, 31 Aug 2014 16:30:53 -0400|visitor|content|/robots.txt|37.58.100.237|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 18:15:00 -0400|visitor|content|/robots.txt|5.9.17.238|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 18:37:34 -0400|visitor|content|/robots.txt|157.55.39.166|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 20:40:36 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 31 Aug 2014 21:12:56 -0400|page|content|/itunes|209.121.225.148|live|404 - Page not found. There is a bad link on <a href="/l.php?u=http%3A%2F%2Fmagnusrising.com%2Fitunes&h=NAQFluQQY&s=1">/l.php?u=http%3A%2F%2Fmagnusrising.com%2Fitunes&h=NAQFluQQY&s=1</a>.
+ERROR|Sun, 31 Aug 2014 21:12:58 -0400|visitor|content|/itunes?fb_locale=en_GB|66.220.158.118|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 31 Aug 2014 21:13:09 -0400|site|favicon|/favicon.ico|209.121.225.148|live|The site favicon could not be found.

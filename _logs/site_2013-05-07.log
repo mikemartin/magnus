@@ -1,0 +1,37 @@
+FATAL|Tue, 07 May 2013 11:27:54 -0400|template||/|174.6.194.128|live|Can't find the specified theme
+INFO|Tue, 07 May 2013 11:27:54 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+FATAL|Tue, 07 May 2013 11:27:55 -0400|template||/favicon.ico|174.6.194.128|live|Can't find the specified theme
+ERROR|Tue, 07 May 2013 11:29:08 -0400|page|content|/_themes/magnus/img/album/whateverittakes.jpg|174.6.194.128|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+INFO|Tue, 07 May 2013 11:29:09 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+ERROR|Tue, 07 May 2013 11:29:12 -0400|page|content|/_themes/magnus/img/album/whateverittakes.jpg|174.6.194.128|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+INFO|Tue, 07 May 2013 11:29:13 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+ERROR|Tue, 07 May 2013 11:29:15 -0400|page|content|/_themes/magnus/img/album/whateverittakes.jpg|174.6.194.128|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 07 May 2013 11:29:17 -0400|page|content|/_themes/magnus/img/album/whateverittakes.jpg|174.6.194.128|live|404 - Page not found. There is a bad link on <a href="/_themes/magnus/img/album/whateverittakes.jpg">/_themes/magnus/img/album/whateverittakes.jpg</a>.
+INFO|Tue, 07 May 2013 11:29:18 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:31 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:34 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:39 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:41 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:42 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:42 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:43 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:30:44 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:32:39 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:33:00 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:33:30 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:00 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:02 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:03 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:40 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:44 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:47 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:34:54 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:44:47 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:44:51 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:44:55 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:44:58 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:45:01 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:45:02 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:45:03 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:45:04 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Tue, 07 May 2013 11:45:05 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.

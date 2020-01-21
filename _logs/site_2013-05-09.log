@@ -1,0 +1,335 @@
+INFO|Thu, 09 May 2013 01:02:16 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:01:49 -0400|external|content|/myspace/backdrop_vintage.png|199.30.24.156|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+ERROR|Thu, 09 May 2013 03:01:49 -0400|external|content|/myspace/vintage-logo.png|199.30.24.156|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+INFO|Thu, 09 May 2013 03:03:29 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:20:55 -0400|core|Statamic|/|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:20:55 -0400|core|Statamic|/|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:20:55 -0400|core|Statamic_Helper|/|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:20:55 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:20:55 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:20:55 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:20:55 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:20:56 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:20:57 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:20:57 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:20:57 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:20:57 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:20:57 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:20:57 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:20:57 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|core|Statamic_Helper|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:02 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:03 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:03 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:03 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:03 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:03 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:03 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:03 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:03 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:04 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:04 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|core|Statamic_Helper|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:04 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|75.126.125.204|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:05 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:05 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:05 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:05 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:05 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:05 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:05 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:05 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:06 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:06 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:06 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:06 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:06 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:06 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:06 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:06 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|core|Statamic_Helper|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:07 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:08 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:08 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:08 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:08 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:08 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:08 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:08 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:08 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:08 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:09 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:09 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:09 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:09 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:10 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:10 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:10 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:10 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:10 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:10 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:10 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:10 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|core|Statamic_Helper|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:40 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:41 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:41 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:41 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:41 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:41 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:41 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:41 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:41 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:42 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:42 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:21:42 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:21:42 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:21:42 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|core|Statamic|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|core|Statamic_Helper|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:16 -0400|plugin|tweets|/news/magnus-rising-to-release-whatever-it-takes-album|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:22:17 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:22:17 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:22:17 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:22:17 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:22:17 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:17 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:17 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:17 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:22:18 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:22:18 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:22:18 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:22:18 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:22:18 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:18 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:18 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:18 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:22:19 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:22:19 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:22:19 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:22:19 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:22:19 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:19 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:19 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:19 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|core|Statamic|/|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|core|Statamic|/|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|core|Statamic_Helper|/|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:23 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:22:24 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:22:24 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:22:24 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:22:24 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:22:24 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:24 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:24 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:22:24 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|core|Statamic|/|23.16.218.164|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|core|Statamic|/|23.16.218.164|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|core|Statamic_Helper|/|23.16.218.164|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|plugin|tweets|/|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|plugin|tweets|/|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|plugin|tweets|/|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:48 -0400|plugin|tweets|/|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:30:54 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:30:54 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic|/favicon.ico|23.16.218.164|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic|/favicon.ico|23.16.218.164|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic_Helper|/favicon.ico|23.16.218.164|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/favicon.ico|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/favicon.ico|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/favicon.ico|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/favicon.ico|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic_Helper|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon-precomposed.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+ERROR|Thu, 09 May 2013 03:30:55 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic|/apple-touch-icon.png|23.16.218.164|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic|/apple-touch-icon.png|23.16.218.164|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|core|Statamic_Helper|/apple-touch-icon.png|23.16.218.164|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:30:55 -0400|plugin|tweets|/apple-touch-icon.png|23.16.218.164|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|core|Statamic|/|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|core|Statamic|/|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|core|Statamic_Helper|/|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:52 -0400|plugin|tweets|/|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:38:54 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+WARN|Thu, 09 May 2013 03:38:54 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_site_root() is deprecated. Use Config::getSiteRoot() instead.
+WARN|Thu, 09 May 2013 03:38:54 -0400|core|Statamic|/favicon.ico|174.6.194.128|live|Use of Statamic::get_templates_path() is deprecated. Use Config::getTemplatesPath() instead.
+WARN|Thu, 09 May 2013 03:38:54 -0400|core|Statamic_Helper|/favicon.ico|174.6.194.128|live|Use of Statamic_Helper::reduce_double_slashes() is deprecated. Use Path::tidy() instead.
+WARN|Thu, 09 May 2013 03:38:54 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:54 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:54 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+WARN|Thu, 09 May 2013 03:38:54 -0400|plugin|tweets|/favicon.ico|174.6.194.128|live|Use of $this->fetch_param() is deprecated. Use $this->fetchParam() instead.
+INFO|Thu, 09 May 2013 03:52:28 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:52:59 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:53:24 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:54:19 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:54:20 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:54:25 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 03:54:25 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:54:26 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 03:54:26 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:54:27 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 03:54:27 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 03:54:27 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:54:28 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 03:54:28 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 03:54:28 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:54:36 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:54:37 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 03:54:37 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 03:54:38 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 03:54:52 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:54:53 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:54:54 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 03:54:54 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 04:18:13 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 04:28:33 -0400|page|content|/robots.txt|182.118.22.219|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+INFO|Thu, 09 May 2013 05:13:34 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 05:13:34 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 05:13:35 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 05:25:57 -0400|site|favicon|/favicon.ico|208.38.52.98|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 05:25:58 -0400|site|favicon|/favicon.ico|208.38.52.98|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 06:37:45 -0400|site|favicon|/favicon.ico|66.249.85.64|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 07:15:23 -0400|visitor|content|/robots.txt|157.55.32.97|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 07:17:19 -0400|visitor|content|/youtube|157.55.32.97|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 09:21:57 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 10:30:31 -0400|visitor|content|/robots.txt|65.55.213.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 10:57:33 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 10:59:25 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 10:59:56 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 11:22:43 -0400|site|favicon|/favicon.ico|108.180.247.83|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 11:22:45 -0400|site|favicon|/favicon.ico|108.180.247.83|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 12:15:46 -0400|site|favicon|/favicon.ico|187.194.10.28|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 12:42:38 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 12:42:39 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 12:42:40 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 12:42:40 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 12:42:41 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:20:57 -0400|site|favicon|/favicon.ico|66.249.85.64|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 16:28:25 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 16:28:26 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 16:34:06 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:34:12 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:34:30 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:34:31 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:34:31 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:34:32 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:34:35 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:35:39 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:35:39 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:35:40 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:02 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:27 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:28 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:28 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:29 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:33 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 16:36:36 -0400|page|content|/news/__matts-weekly-top-ten|23.16.218.164|live|404 - Page not found. There is a bad link on <a href="/admin.php/entries?path=3-news">/admin.php/entries?path=3-news</a>.
+INFO|Thu, 09 May 2013 16:36:38 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:39 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:40 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:41 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:36:59 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:37:00 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:37:01 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:37:02 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:37:25 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:37:37 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:38:38 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+INFO|Thu, 09 May 2013 16:40:56 -0400|site|favicon|/favicon.ico|23.16.218.164|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 16:41:18 -0400|visitor|content|/robots.txt|173.199.116.11|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 16:41:19 -0400|visitor|content|/robots.txt|173.199.116.11|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 16:58:22 -0400|visitor|content|/apple-touch-icon-precomposed.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 16:58:23 -0400|visitor|content|/apple-touch-icon.png|23.16.218.164|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 18:18:54 -0400|site|favicon|/favicon.ico|108.172.241.42|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 20:13:18 -0400|page|content|/news/__matts-weekly-top-ten|24.114.27.9|live|404 - Page not found. There is a bad link on <a href="/admin.php/entries?path=3-news">/admin.php/entries?path=3-news</a>.
+ERROR|Thu, 09 May 2013 20:16:37 -0400|page|content|/news/_matts-weekly-top-ten|24.114.27.9|live|404 - Page not found. There is a bad link on <a href="/admin.php/entries?path=3-news">/admin.php/entries?path=3-news</a>.
+ERROR|Thu, 09 May 2013 20:16:55 -0400|visitor|content|/news/_matts-weekly-top-ten|24.114.27.9|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:42:08 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:42:09 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:42:25 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:42:27 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:42:45 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:42:47 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 20:43:33 -0400|site|favicon|/favicon.ico|184.151.118.116|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 20:43:33 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:43:34 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:43:45 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 20:43:45 -0400|site|favicon|/favicon.ico|184.151.118.116|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 20:43:46 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:43:51 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 09 May 2013 20:43:51 -0400|site|favicon|/favicon.ico|184.151.118.116|live|The site favicon could not be found.
+ERROR|Thu, 09 May 2013 20:43:52 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:43:57 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:43:57 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:44:01 -0400|visitor|content|/apple-touch-icon-precomposed.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 20:44:02 -0400|visitor|content|/apple-touch-icon.png|184.151.118.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 22:34:56 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 23:10:41 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 09 May 2013 23:30:30 -0400|visitor|content|/robots.txt|66.249.73.46|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

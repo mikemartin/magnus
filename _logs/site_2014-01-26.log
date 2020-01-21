@@ -1,0 +1,13 @@
+ERROR|Sun, 26 Jan 2014 01:18:02 -0500|visitor|content|/robots.txt|68.180.224.234|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 06:59:41 -0500|visitor|content|/robots.txt|61.135.189.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 08:25:24 -0500|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 09:35:15 -0500|visitor|content|/robots.txt|157.55.33.88|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 09:41:40 -0500|visitor|content|/magnus-statamic/music/whatever-it-takes|157.55.33.88|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 12:47:26 -0500|visitor|content|/robots.txt|183.60.214.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 16:31:56 -0500|visitor|content|/robots.txt|199.58.86.211|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 17:03:11 -0500|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 26 Jan 2014 18:47:26 -0500|site|favicon|/favicon.ico|85.229.188.152|live|The site favicon could not be found.
+ERROR|Sun, 26 Jan 2014 20:45:23 -0500|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 21:02:04 -0500|visitor|content|/robots.txt|157.55.35.106|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 21:59:46 -0500|visitor|content|/robots.txt|84.92.59.249|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 26 Jan 2014 22:47:06 -0500|page|content|/robots.txt|182.118.20.186|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.

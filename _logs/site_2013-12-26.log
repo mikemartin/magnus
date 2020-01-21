@@ -1,0 +1,12 @@
+ERROR|Thu, 26 Dec 2013 00:13:41 -0500|visitor|content|/robots.txt|157.55.32.86|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 00:29:37 -0500|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 04:54:55 -0500|visitor|content|/index.php/member/register/|123.238.116.198|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 26 Dec 2013 04:55:38 -0500|site|favicon|/favicon.ico|123.238.116.198|live|The site favicon could not be found.
+ERROR|Thu, 26 Dec 2013 06:34:50 -0500|visitor|content|/robots.txt|183.60.213.104|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 08:17:07 -0500|visitor|content|/robots.txt|157.55.32.86|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 12:20:58 -0500|visitor|content|/robots.txt|65.55.24.219|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 17:07:23 -0500|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 18:06:13 -0500|visitor|content|/robots.txt|61.135.189.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 18:39:58 -0500|visitor|content|/robots.txt|157.55.35.94|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 26 Dec 2013 20:28:34 -0500|page|content|/robots.txt|182.118.25.243|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Thu, 26 Dec 2013 20:43:23 -0500|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

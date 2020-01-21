@@ -1,0 +1,33 @@
+<aside class="secondary">
+
+    <section class="tour-dates">
+      <h2>Upcoming Shows</h2>
+      <ul>
+      {{ entries:listing show_future="yes" show_past="no" folder="tour" sort_dir="desc" }}
+        {{ if no_results }}
+          No events on the horizon.
+        {{ else }}
+         <li>
+          <span class="tour-date">{{ date format="M j" }}</span>
+          <a href="{{ tickets }}" class="tour-venue">{{ title }}</a>
+        </li>
+        {{ endif }}
+      {{ /entries:listing }}
+      </ul>
+      <a href="tour" class="btn">View all</a>
+    </section>
+
+    <section class="about">
+      <h2>About</h2>
+      <img src="{{ theme:img src="band-promo.png"}}"/>
+      <p>It’s about perseverance. Year after year, Magnus Rising keep answering the bell, unleashing guitar riffs and bass hooks that clench you in tight for a punch to the gut.</p>
+      <a href="about.html" class="btn">Read More</a>
+    </section>
+    
+    <section>
+      <h2>Twitter</h2>
+      <a class="twitter-timeline" data-dnt="true" data-chrome="noheader nofooter noborders transparent" href="https://twitter.com/MagnusRising" data-widget-id="368864390348431360">Tweets by @MagnusRising</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </section>
+
+</aside>

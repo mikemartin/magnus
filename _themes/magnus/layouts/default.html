@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+
+<head>
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} · {{ _site_name }}</title>
+  <link rel="stylesheet" href="{{ theme:css  }}">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:700|PT+Serif&display=swap" rel="stylesheet">
+  <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+  <script type="text/javascript" src="{{ theme:js src="jquery-1.7.2.min.js" }}"></script>
+  <script type="text/javascript" src="{{ theme:js src="jquery.fitvids.js" }}"></script>
+  <script type="text/javascript" src="{{ theme:js }}"></script>
+</head>
+
+<body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=131662193540058";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  
+  <div class="container">
+    <header role="banner">
+      {{ theme:partial src="nav" }}
+    </header>
+    
+    <div class="content">
+      <div role="main">
+        {{ layout_content }}
+      </div>
+      {{ theme:partial src="aside1" }}
+      {{ theme:partial src="aside2" }}
+    </div>
+  </div>
+  <!-- Google Analytics-->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-41297818-1', 'magnusrising.com');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
+

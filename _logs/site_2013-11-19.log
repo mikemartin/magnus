@@ -1,0 +1,18 @@
+ERROR|Tue, 19 Nov 2013 00:40:03 -0500|visitor|content|/robots.txt|123.125.71.107|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 04:05:08 -0500|visitor|content|/robots.txt|66.249.74.34|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 05:42:50 -0500|visitor|content|/robots.txt|157.55.32.237|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 06:16:39 -0500|visitor|content|/robots.txt|199.30.20.63|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 07:17:10 -0500|visitor|content|/robots.txt|66.249.74.89|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 19 Nov 2013 08:23:48 -0500|site|favicon|/favicon.ico|117.216.10.250|live|The site favicon could not be found.
+INFO|Tue, 19 Nov 2013 08:23:49 -0500|site|favicon|/favicon.ico|117.216.10.250|live|The site favicon could not be found.
+INFO|Tue, 19 Nov 2013 10:39:53 -0500|site|favicon|/favicon.ico|66.249.81.64|live|The site favicon could not be found.
+ERROR|Tue, 19 Nov 2013 13:59:06 -0500|visitor|content|/robots.txt|199.30.20.63|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 17:14:46 -0500|visitor|content|/robots.txt|157.55.32.237|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 19:44:57 -0500|visitor|content|/robots.txt|66.249.74.34|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 20:45:50 -0500|visitor|content|/robots.txt|66.249.74.89|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 21:32:45 -0500|visitor|content|/robots.txt|81.52.143.29|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 19 Nov 2013 21:51:08 -0500|visitor|content|/robots.txt|123.125.71.39|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 19 Nov 2013 23:32:46 -0500|site|favicon|/favicon.ico|162.156.41.158|live|The site favicon could not be found.
+INFO|Tue, 19 Nov 2013 23:32:47 -0500|site|favicon|/favicon.ico|162.156.41.158|live|The site favicon could not be found.
+INFO|Tue, 19 Nov 2013 23:32:48 -0500|site|favicon|/favicon.ico|162.156.41.158|live|The site favicon could not be found.
+ERROR|Tue, 19 Nov 2013 23:45:18 -0500|visitor|content|/robots.txt|157.55.32.237|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

@@ -1,0 +1,1234 @@
+@import url("../webfonts/ss-social-circle.css");
+@import url("../webfonts/ss-standard.css");
+/* Variables
+--------------------------------------------- */
+/* layout rules
+divide the page into sections, holding modules together
+prefix: l-, eg: l-inline, l-stacked, or semantically clear things like grid-5
+--------------------------------------------- */
+/*body:after{
+	display: block !important;
+	background: red;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-align: center;
+	font-weight: bold;
+	font-family: helvetica;
+	color: white;
+	text-shadow: none;
+	background: rgba(black,.5);
+	text-transform: uppercase;	
+}*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* layout rules
+divide the page into sections, holding modules together
+prefix: l-, eg: l-inline, l-stacked, or semantically clear things like grid-5
+--------------------------------------------- */
+body:after {
+  content: 'mobile';
+  display: none; }
+
+.container {
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative; }
+  .container:before, .container:after {
+    content: " ";
+    display: table; }
+  .container:after {
+    clear: both; }
+
+.row {
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto; }
+  .row:before, .row:after {
+    content: " ";
+    display: table; }
+  .row:after {
+    clear: both; }
+
+.content {
+  width: 100%; }
+
+header[role=banner] {
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1em; }
+  header[role=banner]:before, header[role=banner]:after {
+    content: " ";
+    display: table; }
+  header[role=banner]:after {
+    clear: both; }
+
+body {
+  padding: 2rem 1rem; }
+
+/* -----------------------------------------
+   Tablet Screen
+----------------------------------------- */
+@media screen and (min-width: 37.5em) {
+  body:after {
+    content: 'tablet';
+    display: none; }
+
+  /* 4 columns left */
+  .content [role=main] {
+    display: block;
+    float: left;
+    margin-right: 3.28787%;
+    width: 65.57071%; }
+    .content [role=main]:last-child {
+      margin-right: 0; }
+
+  /* 2 column right */
+  .content .primary {
+    display: block;
+    float: left;
+    margin-right: 3.28787%;
+    width: 31.14142%;
+    margin-right: 0; }
+    .content .primary:last-child {
+      margin-right: 0; }
+
+  /* 3 columns on bottom */
+  .content .secondary {
+    *zoom: 1;
+    max-width: 86.375em;
+    margin-left: auto;
+    margin-right: auto; }
+    .content .secondary:before, .content .secondary:after {
+      content: " ";
+      display: table; }
+    .content .secondary:after {
+      clear: both; }
+    .content .secondary > section {
+      display: block;
+      float: left;
+      margin-right: 3.28787%;
+      width: 31.14142%; }
+      .content .secondary > section:last-child {
+        margin-right: 0; } }
+/* -----------------------------------------
+   Desktop Screen
+----------------------------------------- */
+@media screen and (min-width: 62.5em) {
+  body:after {
+    content: 'desktop';
+    display: none; }
+
+  /* 4 columns center */
+  .content [role=main] {
+    display: block;
+    float: left;
+    margin-right: 2.16815%;
+    width: 54.59193%; }
+    .content [role=main]:last-child {
+      margin-right: 0; }
+
+  /* 2 column sidebars */
+  .content > aside.primary, .content > aside.secondary {
+    display: block;
+    float: left;
+    margin-right: 2.16815%;
+    width: 20.53588%; }
+    .content > aside.primary:last-child, .content > aside.secondary:last-child {
+      margin-right: 0; }
+    .content > aside.primary section, .content > aside.secondary section {
+      width: 100%; }
+
+  /* Shift order */
+  .content .primary {
+    position: absolute;
+    left: 0; }
+
+  .content [role=main] {
+    margin-left: 22.70403%; } }
+/* base rules
+default, single-element selectors
+could just be a reset stylesheet
+--------------------------------------------- */
+html {
+  height: 100%;
+  -webkit-text-size-adjust: none;
+  /* Prevent font scaling in landscape */ }
+
+/* normalize.css http://github.com/necolas/normalize.css */
+/* =============================================================================
+   HTML5 display definitions
+   ========================================================================== */
+/*
+ * Corrects block display not defined in IE6/7/8/9 & FF3
+ */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block; }
+
+/*
+ * Corrects inline-block display not defined in IE6/7/8/9 & FF3
+ */
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1; }
+
+/*
+ * Prevents modern browsers from displaying 'audio' without controls
+ */
+audio:not([controls]) {
+  display: none; }
+
+/*
+ * Addresses styling for 'hidden' attribute not present in IE7/8/9, FF3, S4
+ * Known issue: no IE6 support
+ */
+[hidden] {
+  display: none; }
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+/*
+ * 1. Corrects text resizing oddly in IE6/7 when body font-size is set using em units
+ *  http://clagnut.com/blog/348/#c790
+ * 2. Prevents iOS text size adjust after orientation change, without disabling user zoom
+ *  www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
+ */
+html {
+  font-size: 100%;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */ }
+
+/*
+ * Addresses font-family inconsistency between 'textarea' and other form elements.
+ */
+html,
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif; }
+
+/*
+ * Addresses margins handled incorrectly in IE6/7
+ */
+body {
+  margin: 0; }
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+a:focus {
+  outline: thin dotted; }
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+a:hover,
+a:active {
+  outline: 0; }
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+/*
+ * Addresses font sizes and margins set differently in IE6/7
+ * Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5
+ */
+h1 {
+  font-size: 2rem;
+  margin: 0; }
+
+h2 {
+  font-size: 1.5rem;
+  margin: 0; }
+
+h3 {
+  font-size: 1.17rem;
+  margin: 0; }
+
+h4 {
+  font-size: 1rem;
+  margin: 0; }
+
+h5 {
+  font-size: 0.83rem;
+  margin: 0; }
+
+h6 {
+  font-size: 0.75rem;
+  margin: 0; }
+
+/*
+ * Addresses styling not present in IE7/8/9, S5, Chrome
+ */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/*
+ * Addresses style set to 'bolder' in FF3+, S4/5, Chrome
+*/
+b,
+strong {
+  font-weight: bold; }
+
+blockquote {
+  margin: 1em 40px; }
+
+/*
+ * Addresses styling not present in S5, Chrome
+ */
+dfn {
+  font-style: italic; }
+
+/*
+ * Addresses styling not present in IE6/7/8/9
+ */
+mark {
+  background: #ff0;
+  color: #000; }
+
+/*
+ * Addresses margins set differently in IE6/7
+ */
+p,
+pre {
+  margin: 1em 0; }
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+pre,
+code,
+kbd,
+samp {
+  font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+  font-size: 1em; }
+
+/*
+ * Improves readability of pre-formatted text in all browsers
+ */
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; }
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+/* 1 */
+q {
+  quotes: none; }
+
+/* 2 */
+q:before,
+q:after {
+  content: '';
+  content: none; }
+
+small {
+  font-size: 75%; }
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+/* =============================================================================
+   Lists
+   ========================================================================== */
+/*
+ * Addresses margins set differently in IE6/7
+ */
+dl,
+menu,
+ol,
+ul {
+  margin: 1em 0; }
+
+dd {
+  margin: 0 0 0 40px; }
+
+/*
+ * Addresses paddings set differently in IE6/7
+ */
+menu,
+ol,
+ul {
+  padding: 0 0 0 40px; }
+
+/*
+ * Corrects list images handled incorrectly in IE7
+ */
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none; }
+
+/* =============================================================================
+   Embedded content
+   ========================================================================== */
+/*
+ * 1. Removes border when inside 'a' element in IE6/7/8/9, FF3
+ * 2. Improves image quality when scaled in IE7
+ *  code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
+ */
+img {
+  border: 0;
+  /* 1 */
+  -ms-interpolation-mode: bicubic;
+  /* 2 */ }
+
+/*
+ * Corrects overflow displayed oddly in IE9
+ */
+svg:not(:root) {
+  overflow: hidden; }
+
+/* =============================================================================
+   Figures
+   ========================================================================== */
+/*
+ * Addresses margin not present in IE6/7/8/9, S5, O11
+ */
+figure {
+  margin: 0; }
+
+/* =============================================================================
+   Forms
+   ========================================================================== */
+/*
+ * Corrects margin displayed oddly in IE6/7
+ */
+form {
+  margin: 0; }
+
+/*
+ * Define consistent border, margin, and padding
+ */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ * 3. Corrects alignment displayed oddly in IE6/7
+ */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  white-space: normal;
+  /* 2 */
+  *margin-left: -7px;
+  /* 3 */ }
+
+/*
+ * 1. Corrects font size not being inherited in all browsers
+ * 2. Addresses margins set differently in IE6/7, FF3+, S5, Chrome
+ * 3. Improves appearance and consistency in all browsers
+ */
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  /* 1 */
+  margin: 0;
+  /* 2 */
+  vertical-align: baseline;
+  /* 3 */
+  *vertical-align: middle;
+  /* 3 */ }
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+button,
+input {
+  line-height: normal;
+  /* 1 */ }
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *  Known issue: inner spacing remains in IE6
+ */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  /* 1 */
+  -webkit-appearance: button;
+  /* 2 */
+  *overflow: visible;
+  /* 3 */ }
+
+/*
+ * Re-set default cursor for disabled elements
+ */
+button[disabled],
+input[disabled] {
+  cursor: default; }
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+    Known issue: excess padding remains in IE6
+ */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+  *height: 13px;
+  /* 3 */
+  *width: 13px;
+  /* 3 */ }
+
+/*
+ * 1. Addresses appearance set to searchfield in S5, Chrome
+ * 2. Addresses box-sizing set to border-box in S5, Chrome (include -moz to future-proof)
+ */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
+
+/*
+ * Removes inner padding and search cancel button in S5, Chrome on OS X
+ */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none; }
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */ }
+
+/* =============================================================================
+   Tables
+   ========================================================================== */
+/*
+ * Remove most spacing between table cells
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* -----------------------------------------
+   TYPOGRAPHY
+----------------------------------------- */
+/* WebFonts */
+html {
+  font-size: 15px; }
+
+body {
+  font-family: "PT Serif", serif;
+  line-height: 1.5; }
+
+/* The Basics */
+p {
+  margin-top: 0px;
+  font-size: 1rem; }
+  p.lead {
+    text-indent: 0px; }
+  p.byline {
+    font-size: .9rem;
+    font-style: italic;
+    color: #a02328;
+    text-indent: 0; }
+
+blockquote {
+  font-style: italic;
+  text-indent: 0px;
+  text-align: center;
+  margin: 1em;
+  color: #f2ede8; }
+
+ol {
+  padding-left: 2rem;
+  font-weight: 700; }
+  ol p {
+    font-weight: normal;
+    margin-bottom: 1.5em; }
+
+ul {
+  padding-left: 0;
+  list-style: none; }
+
+/* Headings */
+h1, hgroup {
+  color: #f2ede8; }
+
+h3 {
+  color: #a02328; }
+
+h1 {
+  font-size: 2.9rem;
+  margin-bottom: 1rem;
+  line-height: 1;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase; }
+  h1 small {
+    display: block;
+    font-weight: 900;
+    font-size: 2rem;
+    font-family: "Oswald", sans-serif; }
+
+h2 {
+  line-height: 1.1;
+  margin-bottom: 1rem;
+  padding: 0;
+  font-weight: 900;
+  font-family: "Oswald", sans-serif;
+  font-size: 2rem; }
+
+h3 {
+  text-transform: uppercase;
+  font-family: "PT Serif", serif;
+  margin: 2rem 0 1rem 0; }
+
+h4 {
+  font-family: "PT Serif", serif;
+  color: #a02328;
+  margin: 2rem 0 1rem 0;
+  font-weight: normal; }
+
+p, h1, h2, h3 {
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.6); }
+
+section, article {
+  margin-bottom: 5rem; }
+  section section, section article, article section, article article {
+    margin-bottom: 2.5rem; }
+
+section, article {
+  margin-bottom: 3rem;
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto;
+  /*section, article {
+  	margin-bottom: 1rem;
+  }*/ }
+  section:before, section:after, article:before, article:after {
+    content: " ";
+    display: table; }
+  section:after, article:after {
+    clear: both; }
+
+nav {
+  text-align: center;
+  text-transform: uppercase; }
+
+img, embed {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+article {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto; }
+  article hgroup {
+    margin-bottom: 1rem; }
+    article hgroup h1, article hgroup h2, article hgroup h3 {
+      margin-top: 0; }
+  article p:first-child {
+    margin-top: 0px; }
+  article p {
+    margin-bottom: 10px; }
+  article p + p {
+    text-indent: 20px; }
+  article h2 {
+    margin-bottom: .5rem;
+    border: 0px; }
+  article ol, article ul {
+    margin-top: 1.5em; }
+  article img, article .vid {
+    margin: 2rem auto; }
+
+hgroup {
+  text-align: center; }
+  hgroup p {
+    text-align: center; }
+
+hgroup.sep {
+  margin-bottom: 1rem;
+  padding-bottom: .5rem;
+  border-bottom: 5px solid;
+  line-height: 1; }
+  hgroup.sep h2 {
+    margin-bottom: 0;
+    border: 0; }
+  hgroup.sep p {
+    margin-bottom: 0; }
+
+a {
+  text-decoration: none;
+  color: #f2ede8; }
+
+a.more {
+  font-size: .8rem;
+  text-transform: uppercase; }
+
+aside h2, aside h3 {
+  margin-top: 0;
+  margin-bottom: 0; }
+aside h2 {
+  letter-spacing: 3px;
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-bottom: .5rem;
+  color: #a02328;
+  border-bottom: 2px solid #4c1013; }
+
+.social {
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto; }
+  .social:before, .social:after {
+    content: " ";
+    display: table; }
+  .social:after {
+    clear: both; }
+  .social a {
+    display: block;
+    float: left;
+    margin-right: 2.4458%;
+    width: 23.16565%;
+    margin-right: 0;
+    text-align: center; }
+    .social a:last-child {
+      margin-right: 0; }
+
+a.ss-icon {
+  font-size: 3rem;
+  color: #a02328; }
+  a.ss-icon:hover.apple {
+    color: #767984; }
+  a.ss-icon:hover.rdio {
+    color: #005c8a; }
+  a.ss-icon:hover.spotify {
+    color: #537610; }
+  a.ss-icon:hover.facebook {
+    color: #263962; }
+  a.ss-icon:hover.soundcloud {
+    color: #a54d00; }
+  a.ss-icon:hover.twitter {
+    color: #006887; }
+  a.ss-icon:hover.youtube {
+    color: #7f1f1b; }
+  a.ss-icon:hover.lastfm {
+    color: #7e0008; }
+
+@media screen and (min-width: 37.5em) {
+  html {
+    font-size: 18px; }
+
+  p.lead, blockquote {
+    font-size: 1.2rem;
+    line-height: 1.5; }
+
+  blockquote p {
+    font-size: inherit; }
+
+  aside p, aside ol, aside ul {
+    font-size: .75rem;
+    line-height: 1.5;
+    margin-top: .5em; }
+  aside h2 {
+    font-size: .85rem; }
+  aside h3 {
+    font-size: .75rem;
+    line-height: 1.4; }
+  aside input[type="text"] {
+    font-size: .75rem; }
+
+  a.ss-icon {
+    font-size: 2em; }
+
+  /*
+  	p {
+  		font-size: 1.2rem;
+  		line-height: 1.6;
+  
+  		&.lead {
+  			font-size: 1.5rem;
+  			line-height: 1.5;
+  			margin-top: 1rem;
+  		}
+  
+  		&.byline {
+  			font-size: 1rem;
+  		}
+  	}
+  
+  	aside {
+  		p, ol, ul {
+  			font-size: 1rem;
+  			line-height: 1.5;
+  		}
+  	}
+  
+  	h1 {
+  		font-size: 4rem;
+  	}
+  
+  	h2 {
+  		font-size: 1.5rem;
+  	}
+  
+  	h3 {
+  		
+  	}
+  
+  	h4 {
+  
+  	}
+  */ }
+/* -----------------------------------------
+   UI ELEMENTS
+----------------------------------------- */
+button, .btn {
+  color: #ccb7a6;
+  font-family: "Oswald", sans-serif;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 0px;
+  font-weight: 700;
+  padding: .15rem .6rem;
+  width: 10rem;
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 0 auto; }
+
+h2 .btn {
+  float: right;
+  margin-top: 2px;
+  font-size: .75rem;
+  padding: .2rem .3rem; }
+
+input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="time"], input[type="week"] {
+  padding: 8px 8px;
+  border: 1px solid #280608;
+  font-style: italic;
+  font-size: 1rem;
+  outline: none; }
+
+.input-with-button {
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto; }
+  .input-with-button:before, .input-with-button:after {
+    content: " ";
+    display: table; }
+  .input-with-button:after {
+    clear: both; }
+  .input-with-button input {
+    float: left; }
+  .input-with-button [type="text"] {
+    margin: 0px;
+    width: 70%; }
+  .input-with-button [type="submit"] {
+    margin: 0px;
+    width: 30%;
+    padding: .4rem; }
+
+@media screen and (min-width: 37.5em) {
+  button, .btn {
+    width: 7rem;
+    font-size: .85rem; } }
+/*
+module rules
+reusable, modular parts of designs
+should each exist as a standalone component
+avoid conditional styling based on location
+if you need this, sub-class the module
+prefix: group related modules. eg .ex for example, .ex-caption for example's captions
+*/
+/* -----------------------------------------
+   MAIN HEADER
+----------------------------------------- */
+header[role="banner"] {
+  margin-bottom: .5em;
+  position: relative; }
+
+#logo {
+  overflow: hidden;
+  display: block;
+  margin: 0 auto;
+  width: 90%; }
+  #logo img {
+    display: block;
+    margin: 0; }
+
+/* -----------------------------------------
+   Tablet Screen
+----------------------------------------- */
+@media screen and (min-width: 37.5em) {
+  #logo {
+    width: 26rem; } }
+/* -----------------------------------------
+   Desktop Screen
+----------------------------------------- */
+@media screen and (min-width: 62.5em) {
+  #logo {
+    float: left;
+    margin-left: 1em; } }
+/* -----------------------------------------
+   NAVIGATION
+----------------------------------------- */
+nav {
+  width: 100%;
+  font-family: "PT Serif", serif;
+  font-weight: 800; }
+  nav ul {
+    overflow: hidden;
+    margin: 0 0 21px 0;
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+  nav li {
+    display: inline-block;
+    text-align: center;
+    padding: .5em .5em; }
+  nav a {
+    display: block;
+    margin: 0px;
+    text-decoration: none; }
+    nav a:hover {
+      color: #a02328; }
+    nav a.current {
+      border-bottom: 2px solid #a02328; }
+
+/* -----------------------------------------
+   Tablet Screen
+----------------------------------------- */
+/* -----------------------------------------
+   Desktop Screen
+----------------------------------------- */
+@media screen and (min-width: 62.5em) {
+  /*
+  	header {
+  		position: relative;
+  	}
+  	nav {
+  		position: absolute;
+  		top: 0;
+  		width: 100%;
+  		
+  		li {
+  			width: 10%;
+  		}
+  		
+  		a {
+  			padding: 1em 0;
+  		}
+  		
+  		.left {
+  			float: left;
+  		}
+  		.right {
+  			float: right;
+  		}
+  	}	*/
+  nav {
+    float: right;
+    width: auto; }
+    nav li {
+      padding: 2em 1em; } }
+/* -----------------------------------------
+   MUSIC
+----------------------------------------- */
+.album {
+  *zoom: 1;
+  max-width: 86.375em;
+  margin-left: auto;
+  margin-right: auto; }
+  .album:before, .album:after {
+    content: " ";
+    display: table; }
+  .album:after {
+    clear: both; }
+  .album .album-cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+  .album .album-cover {
+    text-align: center; }
+  .album .album-cover img {
+    width: 50%; }
+  .album .album-actions {
+    display: block;
+    float: left;
+    margin-right: 2.4458%;
+    width: 35.97137%; }
+    .album .album-actions:last-child {
+      margin-right: 0; }
+  .album .songs li {
+    position: relative; }
+  .album .songs .song-title {
+    padding-right: 3em; }
+  .album .songs .song-time {
+    position: absolute;
+    right: 0;
+    top: 0; }
+
+.time, .price {
+  float: right; }
+
+/* -----------------------------------------
+   Tour Dates
+----------------------------------------- */
+.tour-dates li {
+  overflow: hidden;
+  margin-bottom: 1rem; }
+  .tour-dates li span {
+    display: block; }
+  .tour-dates li .tour-date {
+    margin-right: 1rem; }
+  .tour-dates li .tour-venue {
+    font-weight: bold; }
+.tour-dates p {
+  clear: both;
+  font-size: .8em; }
+
+/* -----------------------------------------
+   Tablet Screen
+----------------------------------------- */
+@media screen and (min-width: 37.5em) {
+  .tour-date, .tour-venue {
+    float: left; }
+
+  [role=main] .tour-dates li {
+    padding-right: 140px;
+    position: relative; }
+  [role=main] .tour-tickets {
+    position: absolute;
+    top: 0;
+    right: 0; } }
+.radio {
+  background: rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  padding: 1rem; }
+  .radio .radio-artist {
+    font-size: .75rem; }
+  .radio .radio-wave {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 30px; }
+  .radio .radio-controls {
+    *zoom: 1; }
+    .radio .radio-controls:before, .radio .radio-controls:after {
+      content: " ";
+      display: table; }
+    .radio .radio-controls:after {
+      clear: both; }
+    .radio .radio-controls a {
+      border-radius: 100px;
+      background: #a02328;
+      color: black;
+      display: inline-block;
+      margin-right: 2px;
+      padding: 8px;
+      line-height: 1;
+      font-size: .75rem; }
+    .radio .radio-controls a.radio-play {
+      padding: 10px;
+      font-size: 1rem; }
+    .radio .radio-controls a.radio-shuffle {
+      background: none;
+      color: #a02328;
+      font-size: 1rem;
+      float: right; }
+
+/* -----------------------------------------
+   BLOCKS
+----------------------------------------- */
+.block {
+  position: relative; }
+  .block p, .block h1, .block h2, .block h3, .block h4 {
+    padding: 0; }
+  .block h3 {
+    font-size: 30px; }
+  .block .more {
+    position: absolute;
+    top: 0px;
+    right: 0;
+    display: block;
+    margin: 0px;
+    padding: 2px 10px;
+    background: lightgrey;
+    text-decoration: none; }
+  .block.tour ul {
+    padding: 0px;
+    list-style: none; }
+    .block.tour ul em {
+      margin-left: 5px;
+      font-weight: bold;
+      font-style: normal; }
+
+.tweets .intents {
+  overflow: hidden;
+  margin-top: 0; }
+
+.tweets .intents li {
+  float: left; }
+
+.tweets .intents li a {
+  padding-right: .5em;
+  font-size: 1rem !important; }
+
+.embed {
+  margin: 0 auto;
+  margin-bottom: 1em;
+  width: 100%; }
+
+/* 
+state rules
+describe modules/layouts in particular states or views
+indicate a javascript dependency
+probably require use of !important
+includes media queries
+hidden, expanded, active, inactive? mobile? tablet? tv? widescreen? fridge?
+prefix: is-, eg: .is-hidden, .is-tablet
+*/
+/* state
+--------------------------------------------- */
+.hidden {
+  display: none; }
+
+/* theme
+--------------------------------------------- */
+/* colours and images */
+/* boxing theme
+--------------------------------------------- */
+body {
+  background: #1a120f url("../img/bg-fight.jpg") right top no-repeat;
+  background-size: cover;
+  color: #ccb7a6; }
+
+[role="main"] a {
+  text-decoration: none; }
+
+a.more {
+  border-bottom: 2px solid #a02328; }
+
+button, .btn {
+  background: #761a1d; }
+  button:hover, .btn:hover {
+    background: #a02328; }
+
+input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="time"], input[type="week"] {
+  background: white;
+  color: #1a120f; }
+
+article .time {
+  color: #6b5a4e; }
+
+#content img, #content iframe {
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.65);
+  background: rgba(0, 0, 0, 0.5); }
+#content .merch img {
+  box-shadow: 0 0 0px 0px;
+  background: none; }
+
+aside section {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 1em 1em;
+  margin-bottom: 1.5em; }
+  aside section section {
+    background: none;
+    padding: 0;
+    margin: 1.5em 0 0 0; }
+
+/* -----------------------------------------
+   Tablet Screen
+----------------------------------------- */
+@media screen and (min-width: 37.5em) {
+  body {
+    background-position: right top; } }
+/* -----------------------------------------
+   Desktop Screen
+----------------------------------------- */
+@media screen and (min-width: 62.5em) {
+  body {
+    background-position: left top; } }

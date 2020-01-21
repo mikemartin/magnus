@@ -1,0 +1,54 @@
+INFO|Tue, 16 Jul 2013 00:07:30 -0400|site|favicon|/favicon.ico|174.0.68.85|live|The site favicon could not be found.
+INFO|Tue, 16 Jul 2013 00:44:12 -0400|site|favicon|/favicon.ico|174.1.200.244|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 02:11:01 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 03:00:55 -0400|page|content|/index.php/member/register/|142.234.62.166|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 03:47:12 -0400|page|content|/index.php/member/register/|142.234.62.16|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 04:03:19 -0400|visitor|content|/news/tour|74.86.16.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 04:03:27 -0400|visitor|content|/news/whatever-it-takes-review|74.86.16.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 04:03:30 -0400|visitor|content|/robots.txt|74.86.16.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 04:18:49 -0400|page|content|/index.php/member/register/|142.234.62.65|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 04:52:45 -0400|page|content|/index.php/member/register/|142.234.62.16|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 05:01:33 -0400|page|content|/index.php/member/register/|142.234.62.197|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 05:37:36 -0400|visitor|content|/robots.txt|66.249.73.234|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 06:50:12 -0400|visitor|content|/robots.txt|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 06:58:30 -0400|visitor|content|/robots.txt|2.248.171.141|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 08:01:00 -0400|visitor|content|/news/tour|69.84.207.246|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 08:09:38 -0400|visitor|content|/robots.txt|157.55.32.112|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 08:18:01 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 08:19:17 -0400|visitor|content|/robots.txt|46.229.164.97|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 10:07:54 -0400|page|content|/index.php/member/register/|142.234.62.166|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 10:38:02 -0400|page|content|/index.php/member/register/|142.234.62.16|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 11:24:21 -0400|visitor|content|/robots.txt|66.249.73.113|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 11:26:19 -0400|visitor|content|/robots.txt|157.55.33.181|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 11:29:58 -0400|visitor|content|/news/tour|66.249.73.113|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 11:38:30 -0400|visitor|content|/robots.txt|5.10.83.90|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 12:12:08 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 12:12:10 -0400|visitor|content|/news/tour|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 13:38:52 -0400|visitor|content|/robots.txt|157.55.33.181|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 15:55:27 -0400|visitor|content|/robots.txt|157.55.35.78|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 15:58:03 -0400|visitor|content|/news/tour|157.55.35.78|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 18:09:04 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|222.222.129.168|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 18:09:06 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|116.95.87.112|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 19:11:43 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 20:14:44 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 20:14:44 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 20:15:17 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 20:15:17 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 20:16:11 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 20:16:11 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 20:16:16 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 20:16:16 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+INFO|Tue, 16 Jul 2013 20:18:55 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 20:18:55 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 20:19:08 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 20:19:08 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+INFO|Tue, 16 Jul 2013 20:19:32 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 20:19:32 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 16 Jul 2013 20:19:38 -0400|site|favicon|/favicon.ico|98.169.167.169|live|The site favicon could not be found.
+ERROR|Tue, 16 Jul 2013 20:19:38 -0400|visitor|content|/apple-touch-icon-precomposed.png|98.169.167.169|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 21:13:37 -0400|visitor|content|/robots.txt|157.55.35.82|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 22:21:39 -0400|page|content|/index.php/member/register/|142.234.62.193|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Tue, 16 Jul 2013 22:51:47 -0400|visitor|content|/robots.txt|157.55.33.181|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 22:51:57 -0400|visitor|content|/robots.txt|123.125.71.81|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 22:52:02 -0400|visitor|content|/robots.txt|123.125.71.35|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 16 Jul 2013 23:01:25 -0400|page|content|/index.php/member/register/|142.234.62.16|live|404 - Page not found. There is a bad link on <a href="/">/</a>.

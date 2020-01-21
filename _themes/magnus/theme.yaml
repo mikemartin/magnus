@@ -1,0 +1,19 @@
+###########################################################################################
+#
+#  THEME VARIABLES
+#
+###########################################################################################
+
+# Theme name
+theme_name: Magnus
+
+# Comments + Disqus
+disqus_account: magnusrising
+show_comments: yes
+
+# Homepage configuration
+home_blog_items: 4
+home_calendar_items: 2
+
+# Global text snippets
+no_results_text: "Sorry, no results found."

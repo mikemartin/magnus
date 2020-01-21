@@ -1,0 +1,19 @@
+ERROR|Sat, 07 Sep 2013 00:08:19 -0400|visitor|content|/robots.txt|123.125.71.31|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 00:15:43 -0400|visitor|content|/itunes|180.76.5.16|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 01:35:38 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 02:00:32 -0400|visitor|content|/robots.txt|157.55.35.106|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 03:50:12 -0400|visitor|content|/robots.txt|193.252.118.165|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 04:48:46 -0400|page|content|/news/tour|192.114.71.13|live|404 - Page not found. There is a bad link on <a href="/news/abort-magazine-reviews-whatever-it-takes">/news/abort-magazine-reviews-whatever-it-takes</a>.
+INFO|Sat, 07 Sep 2013 06:12:37 -0400|site|favicon|/favicon.ico|66.249.81.62|live|The site favicon could not be found.
+ERROR|Sat, 07 Sep 2013 07:17:57 -0400|visitor|content|/robots.txt|65.55.52.86|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 07:27:25 -0400|visitor|content|/robots.txt|180.76.5.69|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 12:00:54 -0400|visitor|content|/robots.txt|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 12:31:03 -0400|visitor|content|/robots.txt|65.55.52.86|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 12:57:24 -0400|page|content|/robots.txt|125.39.56.149|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+ERROR|Sat, 07 Sep 2013 15:28:55 -0400|visitor|content|/robots.txt|183.60.215.119|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 15:28:56 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sat, 07 Sep 2013 16:54:16 -0400|site|favicon|/favicon.ico|70.68.53.79|live|The site favicon could not be found.
+INFO|Sat, 07 Sep 2013 16:54:26 -0400|site|favicon|/favicon.ico|70.68.53.79|live|The site favicon could not be found.
+ERROR|Sat, 07 Sep 2013 18:32:31 -0400|visitor|content|/robots.txt|65.55.52.86|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 21:14:15 -0400|visitor|content|/wp-login.php|208.88.49.197||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 07 Sep 2013 21:14:15 -0400|visitor|content|/wp-login.php|208.88.49.197||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

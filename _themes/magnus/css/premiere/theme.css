@@ -1,0 +1,104 @@
+/* -----------------------------------------
+   Whatever Premiere
+----------------------------------------- */
+body {
+  background: #300e05 url(../../../img/bg-fight.jpg) center center no-repeat;
+  background-size: cover;
+  color: #ccb7a6;
+  font: 12px "PT Serif", serif; }
+  body h1 {
+    font-size: 2.9rem;
+    line-height: 1;
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    color: #f2ede8; }
+  body a {
+    color: #ccb7a6;
+    text-decoration: none;
+    -webkit-transition: color 1s; }
+    body a:hover {
+      color: #611518; }
+  body .main {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    bottom: 12.5%; }
+  body .album-logo {
+    margin: 0 auto;
+    width: 400px;
+    display: block;
+    top: 12.5%;
+    position: relative; }
+  body .header .time .buffer {
+    background: #3a1a11;
+    background-image: -webkit-linear-gradient(#3a1a11 0, #612c1d 40%, #612c1d 60%, #3a1a11);
+    background-image: -moz-linear-gradient(#3a1a11 0, #612c1d 40%, #612c1d 60%, #3a1a11);
+    background-image: -ms-linear-gradient(#3a1a11 0, #612c1d 40%, #612c1d 60%, #3a1a11);
+    background-image: -o-linear-gradient(#3a1a11 0, #612c1d 40%, #612c1d 60%, #3a1a11);
+    background-image: linear-gradient(#3a1a11 0, #612c1d 40%, #612c1d 60%, #3a1a11); }
+  body .header .time .played {
+    background: #611518;
+    background-image: -webkit-linear-gradient(#611518 0, #8b1e22 40%, #8b1e22 60%, #611518);
+    background-image: -moz-linear-gradient(#611518 0, #8b1e22 40%, #8b1e22 60%, #611518);
+    background-image: -ms-linear-gradient(#611518 0, #8b1e22 40%, #8b1e22 60%, #611518);
+    background-image: -o-linear-gradient(#611518 0, #8b1e22 40%, #8b1e22 60%, #611518);
+    background-image: linear-gradient(#611518 0, #8b1e22 40%, #8b1e22 60%, #611518); }
+  body .header .comments {
+    background-color: rgba(48, 14, 5, 0.8); }
+    body .header .comments .comment {
+      border-left: 1px solid whitesmoke; }
+  body .player .panel {
+    background-color: #300e05; }
+    body .player .panel, body .player .panel .artwork, body .player .panel .artwork img {
+      border-radius: 0px;
+      -moz-border-radius: 0px;
+      -webkit-border-radius: 0px; }
+    body .player .panel.left .artwork .lock {
+      background-color: #300e05;
+      background: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#300e05), to(#300e05), color-stop(0.5, rgba(48, 14, 5, 0.8)));
+      background: -moz-linear-gradient(left, #300e05, rgba(48, 14, 5, 0.8) 50%, #300e05); }
+      body .player .panel.left .artwork .lock .submit {
+        background-color: black;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        color: white; }
+    body .player .panel.left .artwork .button {
+      background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(242, 237, 232, 0.8)), to(rgba(242, 237, 232, 0)));
+      border: 3px solid #f2ede8;
+      border-radius: 100px;
+      -moz-border-radius: 100px;
+      -webkit-border-radius: 100px; }
+      body .player .panel.left .artwork .button:hover {
+        background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(242, 237, 232, 0)), to(rgba(242, 237, 232, 0.8))); }
+      body .player .panel.left .artwork .button .play {
+        border-color: transparent transparent transparent #f2ede8; }
+    body .player .panel.right ol.tracks li {
+      -webkit-transition-property: background;
+      -webkit-transition-duration: 2s; }
+      body .player .panel.right ol.tracks li:nth-child(odd) {
+        background-color: #471507; }
+      body .player .panel.right ol.tracks li.playing {
+        background-color: #611518;
+        color: white; }
+  body .footer {
+    background-color: #300e05; }
+    body .footer .logo a {
+      background: url(../../../img/premiere/soundcloud-white.png); }
+  body .message {
+    background-color: black;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-size: 10px; }
+  body .jspDrag {
+    background: transparent; }
+
+.no-canvas .time {
+  background-color: #f2f2f2 !important; }
+  .no-canvas .time .track {
+    background-color: #300e05; }
+
+.canvas .time {
+  background-color: #300e05; }
+  .canvas .time .track {
+    background-color: #471507; }

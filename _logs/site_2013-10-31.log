@@ -1,0 +1,19 @@
+ERROR|Thu, 31 Oct 2013 01:34:39 -0400|visitor|content|/robots.txt|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 01:56:30 -0400|visitor|content|/news/tour|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 01:56:54 -0400|visitor|content|/robots.txt|218.30.103.36|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 02:00:15 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|69.171.237.15|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 02:00:16 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|69.171.237.12|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 02:39:12 -0400|visitor|content|/robots.txt|157.56.93.187|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 03:22:17 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 05:31:58 -0400|visitor|content|/robots.txt|157.56.93.187|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 06:23:21 -0400|external|content|/posters/tribute_poster_sm.jpg|74.141.239.132|live|404 - Page not found. User clicked an outside bad link at <a href="http://50.97.158.82/news.aspx?mode=Article&newsitemID=45201">http://50.97.158.82/news.aspx?mode=Article&newsitemID=45201</a>.
+INFO|Thu, 31 Oct 2013 06:23:25 -0400|site|favicon|/favicon.ico|74.141.239.132|live|The site favicon could not be found.
+INFO|Thu, 31 Oct 2013 06:23:25 -0400|site|favicon|/favicon.ico|74.141.239.132|live|The site favicon could not be found.
+ERROR|Thu, 31 Oct 2013 10:18:17 -0400|page|content|/wp-login.php|125.67.92.154|live|404 - Page not found. There is a bad link on <a href="/wp-login.php">/wp-login.php</a>.
+ERROR|Thu, 31 Oct 2013 14:05:14 -0400|visitor|content|/robots.txt|157.56.93.187|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 15:21:27 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|173.252.112.117|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 15:21:29 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|173.252.112.113|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 16:06:32 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 19:25:01 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|173.252.112.116|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 19:25:03 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|173.252.112.119|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 31 Oct 2013 22:56:34 -0400|visitor|content|/robots.txt|183.60.215.5|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

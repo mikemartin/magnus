@@ -1,0 +1,13 @@
+ERROR|Sat, 05 Jul 2014 03:58:33 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 04:25:14 -0400|visitor|content|/robots.txt|207.46.13.5|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 04:31:16 -0400|visitor|content|/robots.txt|123.125.71.38|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 06:51:50 -0400|visitor|content|/robots.txt|157.55.39.125|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 08:50:50 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 08:50:50 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 10:51:28 -0400|visitor|content|/robots.txt|183.60.214.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 05 Jul 2014 14:22:03 -0400|visitor|content|/robots.txt|66.249.65.211|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sat, 05 Jul 2014 17:48:56 -0400|site|favicon|/favicon.ico|174.6.116.166|live|The site favicon could not be found.
+INFO|Sat, 05 Jul 2014 17:48:57 -0400|site|favicon|/favicon.ico|174.6.116.166|live|The site favicon could not be found.
+INFO|Sat, 05 Jul 2014 17:48:57 -0400|site|favicon|/favicon.ico|174.6.116.166|live|The site favicon could not be found.
+ERROR|Sat, 05 Jul 2014 19:08:13 -0400|page|content|/robots.txt|101.226.168.219|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sat, 05 Jul 2014 20:34:38 -0400|page|content|/robots.txt|101.226.166.241|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.

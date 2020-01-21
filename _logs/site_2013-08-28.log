@@ -1,0 +1,7 @@
+ERROR|Wed, 28 Aug 2013 03:49:20 -0400|page|content|/index.php/member/edit_profile/|78.131.222.231|live|404 - Page not found. There is a bad link on <a href="/index.php/member/edit_profile/">/index.php/member/edit_profile/</a>.
+ERROR|Wed, 28 Aug 2013 07:44:33 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 28 Aug 2013 13:26:23 -0400|visitor|content|/news/tour|188.143.234.127|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 28 Aug 2013 17:49:51 -0400|site|favicon|/favicon.ico|80.217.194.87|live|The site favicon could not be found.
+ERROR|Wed, 28 Aug 2013 22:15:36 -0400|visitor|content|/robots.txt|220.181.89.128|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 28 Aug 2013 23:18:29 -0400|visitor|content|/robots.txt|46.229.164.99|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 28 Aug 2013 23:58:54 -0400|visitor|content|/robots.txt|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

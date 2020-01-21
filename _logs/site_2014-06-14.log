@@ -1,0 +1,13 @@
+INFO|Sat, 14 Jun 2014 00:39:17 -0400|site|favicon|/favicon.ico|121.223.181.70|live|The site favicon could not be found.
+ERROR|Sat, 14 Jun 2014 01:31:49 -0400|visitor|content|/robots.txt|131.253.24.6|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 02:48:57 -0400|visitor|content|/robots.txt|183.60.214.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 03:40:01 -0400|visitor|content|/wp-admin/|178.90.225.17||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 03:40:03 -0400|visitor|content|/wordpress/wp-admin/|178.90.225.17||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 03:40:07 -0400|visitor|content|/blog/wp-admin/|178.90.225.17||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 03:40:09 -0400|visitor|content|/wp-admin/|178.90.225.17|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 05:45:24 -0400|visitor|content|/robots.txt|66.249.65.224|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 15:08:02 -0400|page|content|/robots.txt|182.118.25.234|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sat, 14 Jun 2014 16:08:05 -0400|page|content|/robots.txt|182.118.25.215|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sat, 14 Jun 2014 20:40:04 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 23:25:49 -0400|visitor|content|/robots.txt|66.249.65.162|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 14 Jun 2014 23:29:11 -0400|visitor|content|/news/tour|66.249.65.175|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

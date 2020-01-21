@@ -1,0 +1,15 @@
+ERROR|Sun, 18 Aug 2013 01:07:29 -0400|page|content|/robots.txt|111.161.50.34|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+INFO|Sun, 18 Aug 2013 01:30:51 -0400|site|favicon|/favicon.ico|209.91.107.254|live|The site favicon could not be found.
+ERROR|Sun, 18 Aug 2013 01:33:59 -0400|visitor|content|/robots.txt|207.241.226.238|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 18 Aug 2013 01:34:00 -0400|visitor|content|/robots.txt|207.241.226.238|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 18 Aug 2013 01:36:00 -0400|site|favicon|/favicon.ico|209.91.107.150|live|The site favicon could not be found.
+ERROR|Sun, 18 Aug 2013 05:28:44 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 18 Aug 2013 05:45:22 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+ERROR|Sun, 18 Aug 2013 11:11:17 -0400|visitor|content|/robots.txt|66.249.73.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 18 Aug 2013 12:17:20 -0400|site|favicon|/favicon.ico|199.126.239.115|live|The site favicon could not be found.
+INFO|Sun, 18 Aug 2013 12:17:45 -0400|site|favicon|/favicon.ico|199.126.239.115|live|The site favicon could not be found.
+ERROR|Sun, 18 Aug 2013 14:14:16 -0400|visitor|content|/robots.txt|157.56.93.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 18 Aug 2013 20:26:11 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sun, 18 Aug 2013 20:45:17 -0400|site|favicon|/favicon.ico|78.57.194.206|live|The site favicon could not be found.
+ERROR|Sun, 18 Aug 2013 23:01:35 -0400|visitor|content|/robots.txt|123.125.71.77|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sun, 18 Aug 2013 23:03:13 -0400|visitor|content|/robots.txt|123.125.71.111|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

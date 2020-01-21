@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  user-select: none;
+  -moz-user-select: none; }
+
+html, body {
+  height: 100%;
+  overflow: hidden; }
+
+body {
+  padding: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  body > div {
+    position: absolute; }
+  body .header {
+    height: 68px; }
+    body .header div, body .header canvas {
+      position: absolute; }
+    body .header, body .header > div {
+      width: 100%; }
+    body .header .time {
+      cursor: pointer;
+      height: 50px;
+      overflow: hidden;
+      top: 18px; }
+      body .header .time .waveform {
+        display: none; }
+      body .header .time div, body .header .time canvas, body .header .time img {
+        height: 40px;
+        top: 5px;
+        width: 100%; }
+      body .header .time .buffer, body .header .time .played {
+        width: 0; }
+    body .header .comments {
+      cursor: pointer;
+      height: 18px; }
+      body .header .comments .comment {
+        cursor: pointer;
+        height: 68px;
+        width: 18px; }
+        body .header .comments .comment .avatar, body .header .comments .comment .avatar img {
+          height: 18px;
+          width: 18px; }
+        body .header .comments .comment .avatar {
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover; }
+  body .player {
+    width: 650px; }
+    body .player, body .player .panel {
+      height: 325px; }
+    body .player .panel {
+      left: 162.5px;
+      width: 325px; }
+      body .player .panel, body .player .panel > div {
+        position: absolute; }
+      body .player .panel > div, body .player .panel .artwork img {
+        height: 305px;
+        left: 10px;
+        top: 10px;
+        width: 305px; }
+      body .player .panel.left .artwork {
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        display: none; }
+        body .player .panel.left .artwork > div {
+          position: absolute; }
+        body .player .panel.left .artwork .lock {
+          padding: 20px 0;
+          text-align: center;
+          top: 152.5px;
+          width: 100%; }
+          body .player .panel.left .artwork .lock .instructions {
+            margin-bottom: 10px; }
+          body .player .panel.left .artwork .lock .shared_message {
+            cursor: pointer;
+            text-decoration: underline; }
+          body .player .panel.left .artwork .lock .submit {
+            display: inline-block;
+            padding: 5px 10px; }
+        body .player .panel.left .artwork .button {
+          cursor: pointer;
+          height: 75px;
+          left: 115px;
+          margin: 0 0 1px 0;
+          top: 115px;
+          width: 75px; }
+          body .player .panel.left .artwork .button:active {
+            margin: 1px 0 0 0; }
+          body .player .panel.left .artwork .button .play {
+            border-style: solid;
+            border-width: 15px;
+            height: 0;
+            left: 33px;
+            position: absolute;
+            top: 22.5px;
+            width: 0; }
+      body .player .panel.right .avatar {
+        height: 47px;
+        width: 47px; }
+      body .player .panel.right .description {
+        height: 37px;
+        left: 67px;
+        top: 15px;
+        width: 248px; }
+      body .player .panel.right ol.tracks {
+        height: 248px;
+        left: 10px;
+        list-style: none;
+        overflow: auto;
+        position: absolute;
+        top: 67px;
+        width: 305px; }
+        body .player .panel.right ol.tracks li {
+          cursor: pointer;
+          height: 25px;
+          line-height: 25px;
+          overflow: hidden;
+          padding-left: 10px;
+          text-overflow: ellipsis; }
+  body .footer {
+    bottom: 0px;
+    height: 50px;
+    width: 100%; }
+    body .footer div {
+      bottom: 17px;
+      position: absolute; }
+    body .footer .links {
+      left: 20px; }
+      body .footer .links a {
+        margin-right: 10px; }
+    body .footer .share {
+      width: 200px; }
+      body .footer .share .facebook-like-button {
+        left: 110px;
+        position: absolute;
+        top: 0px; }
+    body .footer .logo {
+      right: 20px; }
+      body .footer .logo a {
+        display: block;
+        height: 13px;
+        width: 30px; }
+  body .message {
+    display: none;
+    padding: 10px;
+    top: 68px;
+    width: 250px; }
+  body .jspContainer {
+    overflow: hidden;
+    position: relative; }
+    body .jspContainer .jspPane {
+      position: absolute; }
+    body .jspContainer .jspVerticalBar {
+      height: 100%;
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 10px; }
+      body .jspContainer .jspVerticalBar * {
+        margin: 0;
+        padding: 0; }
+      body .jspContainer .jspVerticalBar .jspCap {
+        display: none; }
+      body .jspContainer .jspVerticalBar .jspTrack {
+        position: relative; }
+        body .jspContainer .jspVerticalBar .jspTrack .jspDrag {
+          cursor: pointer;
+          left: 0;
+          position: relative;
+          top: 0; }
+
+.backgroundsize .header .comment img {
+  display: none; }
+
+.canvas .time .waveform {
+  display: none; }
+
+.backgroundsize .player .artwork img {
+  display: none; }
+
+.backgroundsize .player .avatar img {
+  display: none; }

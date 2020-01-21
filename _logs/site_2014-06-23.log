@@ -1,0 +1,16 @@
+ERROR|Mon, 23 Jun 2014 00:41:00 -0400|visitor|content|/robots.txt|157.55.39.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 02:13:32 -0400|visitor|content|/robots.txt|162.243.199.17|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 02:14:07 -0400|page|content|/news/tour|162.243.199.17|live|404 - Page not found. There is a bad link on <a href="/news/matts-weekly-top-ten">/news/matts-weekly-top-ten</a>.
+ERROR|Mon, 23 Jun 2014 03:24:33 -0400|visitor|content|/robots.txt|157.55.39.54|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 03:25:44 -0400|visitor|content|/magnus-statamic/music/whatever-it-takes|207.46.13.37|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 03:25:45 -0400|visitor|content|/magnus-statamic/music/counting-the-numbers|207.46.13.37|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 03:26:00 -0400|visitor|content|/facebook|157.55.39.54|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 04:04:05 -0400|visitor|content|/robots.txt|66.249.79.175|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 04:47:48 -0400|visitor|content|/robots.txt|77.75.77.11|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Mon, 23 Jun 2014 06:45:08 -0400|site|favicon|/favicon.ico|66.249.83.154|live|The site favicon could not be found.
+ERROR|Mon, 23 Jun 2014 07:30:17 -0400|page|content|/robots.txt|101.226.169.221|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Mon, 23 Jun 2014 15:12:23 -0400|visitor|content|/robots.txt|123.125.67.208|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 17:44:48 -0400|page|content|/robots.txt|101.226.166.229|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Mon, 23 Jun 2014 18:50:01 -0400|visitor|content|/robots.txt|207.46.13.83|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 22:31:05 -0400|visitor|content|/robots.txt|66.249.66.72|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 23 Jun 2014 22:31:06 -0400|visitor|content|/myspace/nick.png|66.249.66.72|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

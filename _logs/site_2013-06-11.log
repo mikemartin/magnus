@@ -1,0 +1,36 @@
+ERROR|Tue, 11 Jun 2013 02:26:34 -0400|visitor|content|/robots.txt|220.181.89.128|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 11 Jun 2013 02:28:28 -0400|site|favicon|/favicon.ico|216.232.168.2|live|The site favicon could not be found.
+ERROR|Tue, 11 Jun 2013 02:29:54 -0400|page|content|/robots.txt|182.118.20.203|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Tue, 11 Jun 2013 04:14:45 -0400|visitor|content|/news/tour|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 11 Jun 2013 04:44:15 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+ERROR|Tue, 11 Jun 2013 05:42:52 -0400|visitor|content|/robots.txt|199.30.20.88|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 06:49:33 -0400|external|content|/myspace/matt.png|212.184.105.138|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+ERROR|Tue, 11 Jun 2013 06:49:33 -0400|external|content|/myspace/vintage-logo.png|212.184.105.138|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+ERROR|Tue, 11 Jun 2013 06:49:33 -0400|external|content|/myspace/nick.png|212.184.105.138|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+ERROR|Tue, 11 Jun 2013 06:49:33 -0400|external|content|/myspace/hawk.png|212.184.105.138|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+ERROR|Tue, 11 Jun 2013 06:49:33 -0400|external|content|/myspace/rog.png|212.184.105.138|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/magnusrising">http://www.myspace.com/magnusrising</a>.
+ERROR|Tue, 11 Jun 2013 06:49:33 -0400|external|content|/myspace/backdrop_vintage.png|212.184.105.138|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.myspace.com/Modules/PageEditor/Handlers/Profiles/ProfileCss.ashx?userId=22122619">http://www.myspace.com/Modules/PageEditor/Handlers/Profiles/ProfileCss.ashx?userId=22122619</a>.
+INFO|Tue, 11 Jun 2013 06:50:33 -0400|site|favicon|/favicon.ico|212.184.105.138|live|The site favicon could not be found.
+INFO|Tue, 11 Jun 2013 06:50:34 -0400|site|favicon|/favicon.ico|212.184.105.138|live|The site favicon could not be found.
+INFO|Tue, 11 Jun 2013 09:25:48 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+ERROR|Tue, 11 Jun 2013 10:41:37 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 10:48:37 -0400|visitor|content|/robots.txt|46.229.164.97|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 10:54:31 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 11:55:44 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 12:14:42 -0400|visitor|content|/wp-login.php|189.127.176.77|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 12:14:50 -0400|visitor|content|/administrator/index.php|189.127.176.77|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 13:31:11 -0400|page|content|/robots.txt|182.118.20.226|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+INFO|Tue, 11 Jun 2013 13:43:07 -0400|site|favicon|/favicon.ico|142.162.240.155|live|The site favicon could not be found.
+INFO|Tue, 11 Jun 2013 13:44:19 -0400|site|favicon|/favicon.ico|142.162.240.155|live|The site favicon could not be found.
+INFO|Tue, 11 Jun 2013 13:46:20 -0400|site|favicon|/favicon.ico|66.249.83.72|live|The site favicon could not be found.
+ERROR|Tue, 11 Jun 2013 17:04:40 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 17:10:17 -0400|visitor|content|/robots.txt|66.249.73.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 17:13:06 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 11 Jun 2013 18:17:03 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+ERROR|Tue, 11 Jun 2013 19:49:29 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 20:27:49 -0400|visitor|content|/robots.txt|157.55.35.80|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 22:12:12 -0400|visitor|content|/robots.txt|199.30.16.51|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 22:12:13 -0400|visitor|content|/myspace/nick.png|199.30.16.51|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 22:48:31 -0400|visitor|content|/robots.txt|123.125.71.117|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 23:00:52 -0400|visitor|content|/robots.txt|123.125.71.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 11 Jun 2013 23:10:24 -0400|visitor|content|/robots.txt|18.150.2.60|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

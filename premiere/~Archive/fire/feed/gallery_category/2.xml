@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+		<atom:link href="http://www.magnusrising.com/fire/feed/gallery_category/live-galleries" rel="self" type="application/rss+xml" />
+		<title>Live Galleries</title>
+		<link>http://www.magnusrising.com/fire/galleries/</link>
+		<description> </description>
+		<category>Live Galleries</category>
+		<limit>20</limit>
+
+		<item>
+			<title>Iced Earth</title>
+			<link>http://www.magnusrising.com/fire/galleries/iced-earth</link>
+			<author>Mike Martin</author>
+			<description>Magnus Rising open for Iced Earth at The Commodore Ballroom, Vancouver BC.&lt;br /&gt;</description>
+			<guid isPermaLink="false">http://www.magnusrising.com/fire/galleries/iced-earth</guid>
+			<pubDate>Wed, 07 Oct 2009 05:44:02 PDT</pubDate>
+		</item>
+
+	</channel>
+</rss>

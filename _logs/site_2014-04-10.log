@@ -1,0 +1,23 @@
+ERROR|Thu, 10 Apr 2014 00:09:45 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 02:44:41 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 03:57:59 -0400|visitor|content|/robots.txt|157.56.229.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 08:58:00 -0400|visitor|content|/myspace/rog.png|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 09:30:32 -0400|visitor|content|/news/tour|66.249.65.23|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 10:20:24 -0400|visitor|content|/myspace/nick.png|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 11:09:01 -0400|visitor|content|/robots.txt|157.55.33.179|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 11:25:31 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Thu, 10 Apr 2014 12:30:01 -0400|site|favicon|/favicon.ico|66.249.81.64|live|The site favicon could not be found.
+ERROR|Thu, 10 Apr 2014 12:52:10 -0400|visitor|content|/myspace/matt.png|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 13:29:19 -0400|visitor|content|/robots.txt|66.249.73.74|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 15:38:51 -0400|visitor|content|/wp-admin/|166.78.177.186|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 15:49:07 -0400|visitor|content|/wordpress/wp-admin/|216.14.208.102|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 15:56:15 -0400|visitor|content|/robots.txt|65.55.215.57|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 15:59:50 -0400|visitor|content|/blog/wp-admin/|174.142.248.137|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 16:11:17 -0400|visitor|content|/wp/wp-admin/|202.43.34.48|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 16:16:52 -0400|visitor|content|/myspace/hawk.png|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 16:21:09 -0400|visitor|content|/robots.txt|66.249.65.255|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 17:21:03 -0400|visitor|content|/robots.txt|157.55.33.80|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 19:03:27 -0400|visitor|content|/robots.txt|183.60.213.104|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Thu, 10 Apr 2014 23:27:43 -0400|external|content|/wp-login.php|129.121.177.180|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.google.com/">http://www.google.com/</a>.
+ERROR|Thu, 10 Apr 2014 23:38:07 -0400|external|content|/wp-login.php|216.150.76.218|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.google.com/">http://www.google.com/</a>.
+ERROR|Thu, 10 Apr 2014 23:48:28 -0400|external|content|/wp-login.php|50.62.139.150|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.google.com/">http://www.google.com/</a>.

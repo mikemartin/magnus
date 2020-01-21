@@ -1,0 +1,26 @@
+<article class="entry">
+  <hgroup>
+    <h1 class="entry-title">{{ title }}</h1>
+    <p class="entry-date byline">
+        {{ member:profile member="{ author }" }} by {{ first_name }} on {{ /member:profile }} {{ datestamp format="F jS, Y" }}
+      </p>
+  </hgroup>
+  
+  {{ if image }} 
+    <img src="{{ image }}"/>
+  {{ endif}}
+
+  {{ if video }}
+    <div class="vid"><iframe src="{{ video }}"  frameborder="0" ></iframe></div>
+  {{ endif}}
+
+  {{ content }}
+  
+</article>
+
+{{ if show_comments }}
+<section>
+  <h3>Leave Your Comments</h3>
+  {{ disqus:comments account="{ disqus_account }" }}
+</section>
+{{ endif }}

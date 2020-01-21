@@ -1,0 +1,14 @@
+fields:
+
+  location:
+  	display: Where
+  	type: location
+  
+  tickets:
+  	display: Ticket Link
+  	type: text
+  
+  content:
+    type: markitup
+
+hide: true

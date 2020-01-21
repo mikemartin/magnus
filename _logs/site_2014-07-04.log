@@ -1,0 +1,17 @@
+ERROR|Fri, 04 Jul 2014 00:32:39 -0400|page|content|/robots.txt|101.226.166.210|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Fri, 04 Jul 2014 01:32:47 -0400|visitor|content|/robots.txt|66.249.65.149|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 03:49:04 -0400|visitor|content|/myspace/hawk.png|66.249.65.224|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 06:04:24 -0400|visitor|content|/robots.txt|207.46.13.13|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 07:26:08 -0400|visitor|content|/robots.txt|66.249.79.198|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 07:26:09 -0400|visitor|content|/myspace/rog.png|66.249.79.224|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 08:06:21 -0400|visitor|content|/robots.txt|66.249.79.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 09:51:55 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 11:33:39 -0400|visitor|content|/robots.txt|37.58.100.140|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 11:38:38 -0400|visitor|content|/robots.txt|61.135.189.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 13:41:08 -0400|visitor|content|/robots.txt|199.16.156.126|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 13:41:08 -0400|visitor|content|/robots.txt|199.16.156.124|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 13:41:08 -0400|visitor|content|/robots.txt|199.16.156.125|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Fri, 04 Jul 2014 18:12:12 -0400|site|favicon|/favicon.ico|78.82.75.38|live|The site favicon could not be found.
+INFO|Fri, 04 Jul 2014 18:12:15 -0400|site|favicon|/favicon.ico|78.82.75.38|live|The site favicon could not be found.
+ERROR|Fri, 04 Jul 2014 19:15:34 -0400|visitor|content|/robots.txt|157.55.39.125|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 04 Jul 2014 21:19:59 -0400|visitor|content|/robots.txt|157.55.39.125|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

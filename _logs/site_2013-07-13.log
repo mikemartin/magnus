@@ -1,0 +1,28 @@
+ERROR|Sat, 13 Jul 2013 00:40:51 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 03:44:14 -0400|visitor|content|/robots.txt|123.151.47.115|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 04:03:33 -0400|visitor|content|/news/tour|74.86.16.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 04:03:39 -0400|visitor|content|/news/whatever-it-takes-review|74.86.16.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 04:03:44 -0400|visitor|content|/robots.txt|74.86.16.26|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 04:42:31 -0400|visitor|content|/robots.txt|95.108.158.242|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:10 -0400|visitor|content|/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=File&CurrentFolder=/1.asp|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:10 -0400|visitor|content|/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp?Command=GetFoldersAndFiles&Type=File&CurrentFolder=/shell.asp|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:10 -0400|visitor|content|/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:10 -0400|visitor|content|/admin/FCKeditor/editor/filemanager/upload/test.asp|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:10 -0400|visitor|content|/FCKeditor/editor/filemanager/connectors/|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:10 -0400|visitor|content|/FCKeditor/editor/filemanager/connectors/asp/connector.asp?Command=CreateFolder&Type=Image&CurrentFolder=/shell.asp&NewFolderName=z&uuid=1244789975684|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 10:32:13 -0400|visitor|content|/manage/editor/ewebeditor.asp?id=price&style=standard|114.99.175.245|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 11:01:45 -0400|visitor|content|/robots.txt|157.56.93.191|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sat, 13 Jul 2013 13:02:42 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+ERROR|Sat, 13 Jul 2013 15:03:39 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|113.92.54.70|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 15:03:48 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|219.144.50.58|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 15:17:54 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 16:52:01 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 16:52:01 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 16:52:02 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 16:52:02 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 13 Jul 2013 16:52:03 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sat, 13 Jul 2013 21:27:27 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Sat, 13 Jul 2013 21:27:28 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Sat, 13 Jul 2013 21:27:28 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Sat, 13 Jul 2013 21:27:38 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.
+INFO|Sat, 13 Jul 2013 22:57:38 -0400|site|favicon|/favicon.ico|174.6.194.128|live|The site favicon could not be found.

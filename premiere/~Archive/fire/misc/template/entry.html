@@ -1,0 +1,116 @@
+{{include file="header.html"}}
+			
+			
+			<!-- MIDDLE SECTION: Edit this to make changes to the area with the Company Image and Intro Text -->
+			<div class="middle">
+				
+			</div>
+			<!-- END MIDDLE SECTION -->
+			
+			
+			<!-- Content-Holder DIV: This holds all the information contained in the lower portion of the website -->		
+			<div class="content-holder">
+			
+				<div class="container">
+					<div class="left">
+					
+						<!-- SIDEBAR: Edit this to make changes to the information in the Sidebar -->	
+						<div class="sidebar left">
+							<form method="post" class="fr_search opt_entries opt_limit_20">
+								<input type="submit" name="submit" id="submitbtn" value="Go" />
+								<input type="text" name="search" id="searchfield" class="fr_search_text" value="Search The Blog" />
+							</form>
+							<div class="fr_search_loading"><p>Loading...</p></div>
+						
+							<h2>Popular Posts</h2>
+							<ul class="plain fr_entries opt_popular opt_limit_3">
+								<li><a href="" class="fr_entry_title opt_category"></a></li>
+							</ul>
+							
+							<h2>Blog Categories</h2>
+							<ul class="plain fr_blogs">
+								<li><a href="{{blogs_url}}" class="fr_name"></a></li>
+							</ul>
+							
+							<h2>Resources</h2>
+							<ul class="plain fr_data_resources opt_limit_4">
+								<li><a href="" class="fr_resource fr_url"></a></li>
+							</ul>
+						</div>
+						<!-- END SIDEBAR -->
+						
+						
+						<!-- CONTENT: Edit this to make changes to the main content area from page to page -->
+						<div class="content">
+							<div class="fr_search_error_holder">
+								<p><a href="" class="fr_search_close">Close Search Results</a></p>
+								<h1>Search Results</h1>
+								Nothing was found for your search: <b class="fr_search_query"></b>.
+							</div>
+							<div class="fr_search_results_holder">
+								<p><a href="" class="fr_search_close">Close Search Results</a></p>
+								<h1>Search Results</h1>
+								<div class="query">
+									You searched for: <b class="fr_search_query"></b>
+								</div>
+								<div class="fr_search_results">
+									<h3><a href="" class="fr_entry_title opt_category"></a></h3>
+									<hr />
+								</div>
+							</div>
+							<div class="fr_entry_dynamic opt_rss fr_hide_on_search">
+								<h1>The Blog</h1>
+								
+								<div class="blog-item">
+									<h3><a href="" class="fr_entry_title opt_category"></a></h3>
+									<div class="blog-comment">
+										<a href="" class="fr_comments_link opt_category">
+											<span class="comment-info"></span><span class="comment-number"><span class="fr_comments_count"></span></span>
+										</a>
+									</div>
+									<div class="blog-info">
+										<span class="fr_date opt_full_month opt_year opt_time"></span>
+										Author: <span class="fr_author"></span>
+									</div>
+									<div class="blog-content fr_text"></div>
+									<h2><span class="fr_comments_count"></span> Comments</h2>
+									<a name="comments"></a>
+									<div class="comments fr_comments">		
+										<div class="comment-item">
+											<div class="comment-content fr_comment"></div>
+											<div class="comment-bubble-bottom"></div>
+											
+											<div class="comment-date">
+												<span class="fr_date opt_full_month opt_year opt_time"></span>  |  <b class="fr_guest_name"></b> Says
+											</div>
+										</div>										
+									</div>
+									<form action="" class="fr_comment_form">
+										<fieldset>
+											Your Name:
+											<input type="text" class="fr_comment_form_name" />
+											Your Comment:
+											<textarea class="fr_comment_form_text"></textarea>
+											Enter the letters from the image below:
+											<input type="text" class="text captcha-input fr_comment_form_captcha_input" />
+											<div class="captcha-image"><img src="" alt="" class="fr_comment_form_captcha_image" /></div>
+											<input type="submit" value="Submit Comment" />
+										</fieldset>
+										<div class="fr_comment_form_error fr_comment_form_success"></div>
+									</form>
+								</div>
+								
+							</div>
+							
+						</div>
+						<!-- END CONTENT -->
+					
+					</div>
+					<!-- END LEFT DIV -->
+					
+				</div>
+				
+			</div>
+			<!-- END Content-Holder DIV -->
+
+{{include file="footer.html"}}

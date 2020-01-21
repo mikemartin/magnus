@@ -1,0 +1,28 @@
+ERROR|Wed, 21 Aug 2013 01:01:42 -0400|visitor|content|/robots.txt|220.181.89.128|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 02:18:44 -0400|visitor|content|/robots.txt|157.55.32.153|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 21 Aug 2013 02:45:33 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+INFO|Wed, 21 Aug 2013 02:51:14 -0400|site|favicon|/favicon.ico|66.249.84.89|live|The site favicon could not be found.
+ERROR|Wed, 21 Aug 2013 03:41:37 -0400|visitor|content|/index.php/member/register/|23.19.46.117|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 03:49:04 -0400|visitor|content|//use.typekit.net/smx7oto.js|83.222.240.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 03:49:08 -0400|visitor|content|/about/tour|83.222.240.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 03:49:09 -0400|visitor|content|/music/tour|83.222.240.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 03:49:13 -0400|visitor|content|/news/tour|83.222.240.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 03:49:14 -0400|visitor|content|/news/whatever-it-takes-review|83.222.240.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 03:49:17 -0400|visitor|content|/tour/tour|83.222.240.73|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 08:52:23 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|60.221.183.146|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 08:52:27 -0400|visitor|content|/mp3s/counting-the-numbers/05%20Crisis.mp3|222.161.198.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 10:01:07 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 10:48:56 -0400|visitor|content|/robots.txt|66.249.73.32|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 12:05:36 -0400|visitor|content|/index.php/member/register/|202.166.161.202|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 21 Aug 2013 12:07:50 -0400|site|favicon|/favicon.ico|202.166.161.202|live|The site favicon could not be found.
+INFO|Wed, 21 Aug 2013 12:07:55 -0400|site|favicon|/favicon.ico|202.166.161.202|live|The site favicon could not be found.
+INFO|Wed, 21 Aug 2013 15:09:52 -0400|site|favicon|/favicon.ico|204.244.194.110|live|The site favicon could not be found.
+ERROR|Wed, 21 Aug 2013 15:31:44 -0400|visitor|content|/robots.txt|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 15:49:49 -0400|visitor|content|/news/tour|66.249.73.240|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 21 Aug 2013 19:52:27 -0400|site|favicon|/favicon.ico|66.249.85.64|live|The site favicon could not be found.
+ERROR|Wed, 21 Aug 2013 22:14:11 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 22:53:30 -0400|external|content|/youtube|174.0.189.38|live|404 - Page not found. User clicked an outside bad link at <a href="https://www.facebook.com/">https://www.facebook.com/</a>.
+ERROR|Wed, 21 Aug 2013 22:53:31 -0400|visitor|content|/youtube|173.252.101.118|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 21 Aug 2013 22:53:35 -0400|site|favicon|/favicon.ico|174.0.189.38|live|The site favicon could not be found.
+ERROR|Wed, 21 Aug 2013 23:00:10 -0400|visitor|content|/robots.txt|123.125.71.106|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 21 Aug 2013 23:01:46 -0400|visitor|content|/robots.txt|123.125.71.51|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

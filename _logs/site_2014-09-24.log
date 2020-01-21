@@ -1,0 +1,29 @@
+ERROR|Wed, 24 Sep 2014 00:36:03 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 00:51:55 -0400|visitor|content|/apple-touch-icon-120x120-precomposed.png|70.68.138.53|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 00:51:56 -0400|visitor|content|/apple-touch-icon-120x120.png|70.68.138.53|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 00:51:57 -0400|visitor|content|/apple-touch-icon.png|70.68.138.53|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 00:51:58 -0400|visitor|content|/apple-touch-icon.png|70.68.138.53|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 24 Sep 2014 00:52:02 -0400|site|favicon|/favicon.ico|70.68.138.53|live|The site favicon could not be found.
+ERROR|Wed, 24 Sep 2014 00:52:03 -0400|visitor|content|/apple-touch-icon-precomposed.png|70.68.138.53|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Wed, 24 Sep 2014 00:52:04 -0400|site|favicon|/favicon.ico|70.68.138.53|live|The site favicon could not be found.
+ERROR|Wed, 24 Sep 2014 02:54:31 -0400|visitor|content|/robots.txt|66.249.79.62|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 05:23:40 -0400|visitor|content|/_themes/magnus/img/album/whateverittakes.jpg|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 05:23:49 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 07:49:25 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 08:50:09 -0400|visitor|content|/robots.txt|66.249.79.50|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 09:17:36 -0400|external|content|/wp-login.php|37.34.57.250|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.google.com/">http://www.google.com/</a>.
+ERROR|Wed, 24 Sep 2014 09:47:06 -0400|external|content|/wp-login.php|95.143.172.178|live|404 - Page not found. User clicked an outside bad link at <a href="http://www.google.com/">http://www.google.com/</a>.
+ERROR|Wed, 24 Sep 2014 12:37:25 -0400|visitor|content|/wp-login.php|64.111.121.166|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 12:39:17 -0400|visitor|content|/wp-login.php|5.135.152.87|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 13:34:21 -0400|visitor|content|/robots.txt|66.249.65.30|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 14:16:13 -0400|visitor|content|/robots.txt|123.125.71.111|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 14:54:15 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 14:55:41 -0400|visitor|content|/robots.txt|202.46.52.135|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 17:06:09 -0400|visitor|content|/robots.txt|183.60.213.27|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 17:16:14 -0400|external|content|/wp-includes/css/admin-bar.css|162.244.32.46||404 - Page not found. User clicked an outside bad link at <a href="https://www.google.com/">https://www.google.com/</a>.
+ERROR|Wed, 24 Sep 2014 17:37:02 -0400|visitor|content|/robots.txt|66.249.65.22|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 18:55:37 -0400|visitor|content|/robots.txt|202.46.57.201|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 19:50:42 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 20:09:15 -0400|visitor|content|/robots.txt|157.55.39.152|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 20:31:59 -0400|visitor|content|/posters/tribute_poster_sm.jpg|66.249.65.38|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Wed, 24 Sep 2014 23:32:59 -0400|visitor|content|/robots.txt|157.55.39.43|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

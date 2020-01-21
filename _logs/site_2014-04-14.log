@@ -1,0 +1,21 @@
+ERROR|Mon, 14 Apr 2014 00:15:33 -0400|visitor|content|/robots.txt|217.69.133.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 00:55:57 -0400|visitor|content|/myspace|185.10.104.130|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 02:32:43 -0400|visitor|content|/robots.txt|180.76.5.58|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 03:32:54 -0400|visitor|content|/wp-login.php?action=register|185.24.218.132|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 05:29:30 -0400|visitor|content|/robots.txt|157.55.35.52|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 06:42:05 -0400|visitor|content|/robots.txt|199.30.20.8|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 07:47:25 -0400|visitor|content|/robots.txt|157.55.35.52|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 07:50:31 -0400|page|content|/administrator/index.php|176.109.195.139|live|404 - Page not found. There is a bad link on <a href="/administrator/index.php">/administrator/index.php</a>.
+ERROR|Mon, 14 Apr 2014 08:05:44 -0400|visitor|content|/robots.txt|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 08:32:50 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 08:48:56 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 11:08:02 -0400|visitor|content|/robots.txt|61.135.189.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 13:14:11 -0400|visitor|content|//wp-login.php|80.82.64.42||404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Mon, 14 Apr 2014 14:03:50 -0400|site|favicon|/favicon.ico|199.60.19.194|live|The site favicon could not be found.
+INFO|Mon, 14 Apr 2014 14:03:53 -0400|site|favicon|/favicon.ico|199.60.19.194|live|The site favicon could not be found.
+ERROR|Mon, 14 Apr 2014 17:00:20 -0400|visitor|content|/robots.txt|157.55.35.52|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 18:41:22 -0400|visitor|content|/news/tour|178.255.215.67|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 21:44:46 -0400|visitor|content|/robots.txt|183.60.214.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 21:49:33 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 22:52:01 -0400|visitor|content|/robots.txt|123.125.71.51|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Mon, 14 Apr 2014 23:19:52 -0400|visitor|content|/robots.txt|157.55.35.52|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

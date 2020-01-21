@@ -1,0 +1,23 @@
+fields:
+  status:
+    type: status
+  author:
+    display: author
+    type: users
+    default: - None Selected -
+  categories:
+    display: Categories
+    required: false
+    default:
+    type: tags
+  image:
+    display: Image
+    type: file
+    allowed: [png, gif, jpg, jpeg]
+    destination: assets/img/blog
+    show_thumbnail: true
+  video:
+    display: Video
+    type: text
+
+hide: true

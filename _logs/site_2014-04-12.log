@@ -1,0 +1,13 @@
+ERROR|Sat, 12 Apr 2014 01:25:10 -0400|visitor|content|/robots.txt|193.252.118.165|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 12 Apr 2014 04:22:55 -0400|visitor|content|/robots.txt|183.60.214.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 12 Apr 2014 06:34:11 -0400|visitor|content|/robots.txt|157.55.33.179|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sat, 12 Apr 2014 10:44:17 -0400|site|favicon|/favicon.ico|207.245.236.104|live|The site favicon could not be found.
+ERROR|Sat, 12 Apr 2014 11:02:53 -0400|page|content|/robots.txt|182.118.22.222|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sat, 12 Apr 2014 11:17:00 -0400|visitor|content|/robots.txt|157.55.33.179|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 12 Apr 2014 12:24:24 -0400|visitor|content|/robots.txt|178.255.215.91|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 12 Apr 2014 13:59:10 -0400|visitor|content|/robots.txt|66.249.74.92|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 12 Apr 2014 14:49:14 -0400|page|content|/robots.txt|182.118.22.221|live|404 - Page not found. There is a bad link on <a href="/robots.txt">/robots.txt</a>.
+ERROR|Sat, 12 Apr 2014 17:52:11 -0400|visitor|content|/robots.txt|157.55.33.179|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Sat, 12 Apr 2014 19:28:05 -0400|site|favicon|/favicon.ico|96.48.153.160|live|The site favicon could not be found.
+ERROR|Sat, 12 Apr 2014 20:13:02 -0400|visitor|content|/robots.txt|157.55.33.179|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Sat, 12 Apr 2014 22:47:40 -0400|visitor|content|/robots.txt|123.125.71.117|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

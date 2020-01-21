@@ -1,0 +1,15 @@
+INFO|Fri, 22 Aug 2014 01:41:06 -0400|site|favicon|/favicon.ico|154.20.168.203|live|The site favicon could not be found.
+ERROR|Fri, 22 Aug 2014 06:39:21 -0400|visitor|content|/robots.txt|100.43.81.129|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 08:15:44 -0400|page|content|/index.php/member/register/|23.94.19.209|live|404 - Page not found. There is a bad link on <a href="/">/</a>.
+INFO|Fri, 22 Aug 2014 09:09:26 -0400|site|favicon|/favicon.ico|24.137.210.10|live|The site favicon could not be found.
+INFO|Fri, 22 Aug 2014 09:09:27 -0400|site|favicon|/favicon.ico|24.137.210.10|live|The site favicon could not be found.
+ERROR|Fri, 22 Aug 2014 16:55:44 -0400|visitor|content|/robots.txt|66.249.79.106|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 21:07:43 -0400|visitor|content|/robots.txt|183.60.214.18|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 21:43:04 -0400|visitor|content|/robots.txt|180.76.6.43|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 21:45:47 -0400|visitor|content|/a|180.76.6.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 22:58:26 -0400|visitor|content|/robots.txt|123.125.71.74|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 23:07:36 -0400|visitor|content|/apple-touch-icon-precomposed.png|70.68.62.195|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Fri, 22 Aug 2014 23:07:36 -0400|visitor|content|/apple-touch-icon.png|70.68.62.195|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Fri, 22 Aug 2014 23:07:37 -0400|site|favicon|/favicon.ico|70.68.62.195|live|The site favicon could not be found.
+INFO|Fri, 22 Aug 2014 23:07:38 -0400|site|favicon|/favicon.ico|70.68.62.195|live|The site favicon could not be found.
+ERROR|Fri, 22 Aug 2014 23:47:41 -0400|visitor|content|/robots.txt|66.249.79.97|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

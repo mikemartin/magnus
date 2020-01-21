@@ -1,0 +1,12 @@
+###############################################################################
+#
+#  Vanity URLs
+#  Set up quick redirects for URLs.
+#
+#  For more on how vanity URLs work, visit
+#  http://statamic.com/docs/getting-started/configuration#vanity_urls
+#
+###############################################################################
+
+/tickets: http://www.eventbrite.ca/e/magnus-rising-with-88-mile-trip-and-fallen-decade-tickets-6273515253
+/listen: /news/listen-to-whatever-it-takes

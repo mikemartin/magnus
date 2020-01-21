@@ -1,0 +1,15 @@
+INFO|Tue, 01 Apr 2014 00:15:22 -0400|site|favicon|/favicon.ico|50.92.48.140|live|The site favicon could not be found.
+INFO|Tue, 01 Apr 2014 02:45:55 -0400|site|favicon|/favicon.ico|162.156.182.25|live|The site favicon could not be found.
+INFO|Tue, 01 Apr 2014 02:45:56 -0400|site|favicon|/favicon.ico|162.156.182.25|live|The site favicon could not be found.
+ERROR|Tue, 01 Apr 2014 03:28:36 -0400|visitor|content|/robots.txt|157.55.32.105|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 05:48:32 -0400|visitor|content|/robots.txt|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 05:48:32 -0400|visitor|content|/myspace/vintage-logo.png|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 06:38:14 -0400|visitor|content|/myspace/hawk.png|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 07:18:39 -0400|visitor|content|/robots.txt|183.60.213.104|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 08:21:47 -0400|visitor|content|/myspace/rog.png|66.249.73.64|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 08:28:56 -0400|visitor|content|/robots.txt|157.55.32.105|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 08:41:38 -0400|visitor|content|/robots.txt|100.43.83.156|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+INFO|Tue, 01 Apr 2014 10:32:20 -0400|site|favicon|/favicon.ico|70.68.137.44|live|The site favicon could not be found.
+ERROR|Tue, 01 Apr 2014 17:01:28 -0400|visitor|content|/robots.txt|61.135.189.190|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 21:55:15 -0400|visitor|content|/robots.txt|157.56.93.95|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.
+ERROR|Tue, 01 Apr 2014 22:46:38 -0400|visitor|content|/robots.txt|123.125.71.19|live|404 - Page not found. Visitor came directly to this page and may have typed the URL incorrectly.

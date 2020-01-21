@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+		<atom:link href="http://www.magnusrising.com/fire/feed/blog/general" rel="self" type="application/rss+xml" />
+		<title>General</title>
+		<link>http://www.magnusrising.com/fire/blog/</link>
+		<description> </description>
+		<category>General</category>
+		<limit>20</limit>
+
+		<item>
+			<title>Magnus Rising open for Iced Earth</title>
+			<link>http://www.magnusrising.com/fire/blog/magnus-rising-open-for-iced-earth</link>
+			<author>Mike Martin</author>
+			<description>&lt;object width=&quot;400&quot; height=&quot;302&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=2323569&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=00adef&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=2323569&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=00adef&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;302&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;Magnus Rising open for Iced Earth at The Commodore Ballroom, Vancouver BC. &lt;br /&gt;&lt;br /&gt;
+Scrape Records 11th Anniversary, November 19th 2008&lt;/p&gt;&lt;br /&gt;</description>
+			<guid isPermaLink="false">http://www.magnusrising.com/fire/blog/magnus-rising-open-for-iced-earth</guid>
+			<pubDate>Tue, 10 Nov 2009 07:58:24 PST</pubDate>
+		</item>
+
+		<item>
+			<title>3Another Blog Post</title>
+			<link>http://www.magnusrising.com/fire/blog/3another-blog-post</link>
+			<author>Mike Martin</author>
+			<description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc feugiat. In a massa. In feugiat pharetra lacus. In non arcu nec libero pharetra rutrum. a gravida tristique metus. &lt;br /&gt;
+&lt;br /&gt;
+Na massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc feugiat. In a massa. In feugiat &lt;a href=&quot;http://www.firerift.com/&quot;&gt;pharetra lacus&lt;/a&gt;. In non arcu nec libero pharetra rutrum. a gravida tristique metus. Na massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc feugiat. In a massa. In feugiat pharetra lacus. In non arcu nec libero pharetra rutrum. a gravida tristique metus. Na massa. Lorem ipsum dolor sit amet.&lt;br /&gt;</description>
+			<guid isPermaLink="false">http://www.magnusrising.com/fire/blog/3another-blog-post</guid>
+			<pubDate>Sun, 09 Aug 2009 04:46:39 PDT</pubDate>
+		</item>
+
+		<item>
+			<title>Sample Blog Post</title>
+			<link>http://www.magnusrising.com/fire/blog/sample-blog-post</link>
+			<author>Mike Martin</author>
+			<description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc feugiat. In a massa. In feugiat pharetra lacus. In non arcu nec libero pharetra rutrum. a gravida tristique metus. Na massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc feugiat. In non arcu nec libero pharetra rutrum. a gravida tristique metus. N a massa. Lorem ipsum dolor sit amet.&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://www.magnusrising.com/fire/upload/media/frp_IMG6841~500x500.jpg&quot; alt=&quot;Yosemite 01&quot; /&gt;&lt;br /&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://www.magnusrising.com/fire/upload/media/IMG6730~500x500.jpg&quot; alt=&quot;Yosemite 02&quot; /&gt;&lt;br /&gt;
+In non arcu nec libero pharetra rutrum. a gravida tristique metus. N a massa. Lorem ipsum dolor sit amet.&lt;br /&gt;</description>
+			<guid isPermaLink="false">http://www.magnusrising.com/fire/blog/sample-blog-post</guid>
+			<pubDate>Sun, 09 Aug 2009 04:41:30 PDT</pubDate>
+		</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,19 @@
+.logo a  {
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/logo.png',sizingMethod='crop');
+	}
+
+.header li a {
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/nav-bg.png',sizingMethod='crop');
+	}
+
+a.btn-learnmore {
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/btn-learnmore.png',sizingMethod='crop');
+	}
+
+.middle a.btn-learnmore {
+	background-image: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/btn-learnmore-blk.png',sizingMethod='crop');
+	}
