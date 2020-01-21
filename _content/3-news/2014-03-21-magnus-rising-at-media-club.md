@@ -1,6 +1,6 @@
 ---
 image:
-title: "Whoever Said We Only Die Once,<br/>Never Really Lived"
+title: "Whoever Said We Only Die Once, Never Really Lived"
 author:
 categories:
 video: "https://www.youtube.com/embed/HsKrx0v1yGg"
